@@ -1,4 +1,4 @@
 ---
 layout: category
-category: 'Chăm sóc'
+category: 'tutorial'
 ---
