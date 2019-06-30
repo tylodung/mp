@@ -3,7 +3,7 @@ layout: post
 title: "Kem dưỡng da ban đêm"
 date: 2018-10-09 12:26:40
 image: 'https://asinice.vn/i/2019/06/1-300x300.jpg'
-description: Điện thoại giao ngay: 090-268-3189
+description: Điện thoại giao ngay: 090 268 3189
 category: 'Chăm sóc'
 tags:
 - SP khác của AsiNice
