@@ -13,7 +13,7 @@ disqus_username: disqus_username
 
 # Social Media
 # Remove the item if you don't need it
-github_username: github_username
+
 facebook_username: facebook_username
 twitter_username: twitter_username
 instagram_username: instagram_username
@@ -38,9 +38,9 @@ plugins:
 links:
   - title: Home
     url: /
-  - title: About
+  - title: Giới Thiệu
     url: /about/
-  - title: Contact
+  - title: Liên Hệ
     url: /contact/
 
 # Exclude my node related stuff
