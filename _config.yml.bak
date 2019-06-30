@@ -1,9 +1,9 @@
 # Site Settings
-title: Mỹ Phẩm Các Loại | Rạng Ngời Vẻ Đẹp Việt
-email: doan.trong.quoc.binh@gmail.com
+title: Jekflix | A theme for Jekyll
+email: youremail@xyz.com
 description: Some text about your blog.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mypham.netlify.com/" # the base hostname & protocol for your site
+url: "https://sad-murdock-afa624.netlify.com" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
