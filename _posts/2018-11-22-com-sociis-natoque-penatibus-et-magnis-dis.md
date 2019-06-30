@@ -12,3 +12,4 @@ twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 introduction: các bạn đợi nhé.
 ---
 
+Lorem ipsum dolor sit amet, consectetur adipisicing elit.
