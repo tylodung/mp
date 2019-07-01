@@ -9,7 +9,7 @@ permalink: /about/
 
 
 
-##Mỹ Phẩm Các Loại
+## Mỹ Phẩm Các Loại
 
 **Mỹ Phẩm Các Loại** hân hạnh chào đón bạn đến với Trang Web trực tuyến phục vụ khách hàng từ xa của chúng tôi.
 
@@ -19,7 +19,7 @@ Trước tiên, bạn hãy nên tham khảo danh mục sản phẩm làm trắng
 
 Xin liên hệ đường dây nóng **090-268-3189** Đoàn Bình giao hàng tận nơi trong ngày.
 
-##Mọi vấn đề phát sinh khác
+## Mọi vấn đề phát sinh khác
 
 Hãy liên hệ trực tiếp chúng tôi theo số điện thoại được ghi dưới đây **090-268-3189** Đoàn Bình. hãy cẩn trọng bạn nhé, nếu bạn bất chợt gọi tới và bị hỏi những câu hỏi đầy quan tâm liên tiếp xin đừng choáng ngợp, bởi quan tâm đến cảm nhận của khách hàng là mối quan tâm hàng đầu của **Mỹ Phẩm Các Loại**.
 
