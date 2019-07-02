@@ -2,7 +2,7 @@
 layout: post
 title: "Sữa rửa mặt củ đậu - trà xanh"
 date: 2019-07-01 12:26:40
-image: 'https://myphamcacloai.net/artists/sua-rua-mat/suaruamat.jpg'
+image: 'https://cf.shopee.vn/file/acb57109b609f49ec0d3badeecd71c5e'
 description: Điện thoại giao ngay 090 268 3189
 category: 'AsiNice'
 tags:
