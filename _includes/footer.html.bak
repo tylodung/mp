@@ -37,7 +37,7 @@
         {% endfor %}
         <li><a class="feed" href="{{ site.url }}{{site.baseurl}}/feed.xml" title="Atom/RSS feed">...</a></li>
     </ul>
-	<p><span>Địa chỉ</span> 21/4A Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh <svg class="love"><use xlink:href="#icon-heart"></use></svg> Hotline <a href="https://www.facebook.com/BinhLuiV" target="_blank" class="creator"><span>090 2683 189</span></a></p>
+	<p>Địa chỉ <span>21/4A Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh </span><svg class="love"><use xlink:href="#icon-heart"></use></svg> Hotline <a href="https://www.facebook.com/BinhLuiV" target="_blank" class="creator"><span>090 2683 189</span></a></p>
     <p><span>Mỹ Phẩm Các Loại</span> được thiết kế <svg class="love"><use xlink:href="#icon-heart"></use></svg> bởi <a href="https://www.facebook.com/BinhLuiV" target="_blank" class="creator"><span>Đoàn Bình</span></a></p>
 </footer>
 <script src="{{ "/assets/js/main.js" | prepend: site.baseurl }}"></script>
