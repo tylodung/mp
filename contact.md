@@ -23,13 +23,12 @@ permalink: /contact/
         <input type="hidden" name="_next" value="{{ site.url }}/contact/message-sent/" />
         <input type="hidden" name="_language" value="en" />
 
-        <legend><p>Điện thoại liên hệ: 090 268 3189 (Đoàn Bình)</p>
-
-Địa chỉ: 21/4A Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh.</legend>
-    Name: <input type="text"><br>
-    Email: <input type="text"><br>
-    Date of birth: <input type="text"><br>
-    Nội Dung: <textarea name="message" placeholder="Test Message"></textarea>
+        <p><legend><p>Điện thoại liên hệ: 090 268 3189 (Đoàn Bình)</p>
+	Địa chỉ: 21/4A Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh.</legend></p>
+    <span>Họ và Tên:</span> <input type="text"><br>
+    <span>Số điện thoại:</span> <input type="text"><br>
+    <span>Ngày giao hàng:</span> <input type="text"><br>
+    <span>Nội Dung:</span> <textarea name="message" placeholder="tên sản phẩm muốn mua"></textarea>
 
 
         <button type="submit">Send</button>
