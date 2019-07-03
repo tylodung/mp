@@ -34,7 +34,9 @@ Facebook chính: Mỹ Phẩm Thiên Nhiên Cao Cấp AsiNice Facebook Page Đặ
         <legend>Personalia:</legend>
     Name: <input type="text"><br>
     Email: <input type="text"><br>
-    Date of birth: <input type="text">
+    Date of birth: <input type="text"><br>
+    Date of birth: <textarea name="message" placeholder="Test Message"></textarea>
+
 
         <button type="submit">Send</button>
       </fieldset>
