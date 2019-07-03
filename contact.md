@@ -17,7 +17,7 @@ permalink: /contact/
   <h2>Thông tin Đặt Hàng</h2>
 
   <div id="form" class="contact-form">
-    <form accept-charset="UTF-8" method="POST" action="https://formspree.io/{{ site.email }}" v-on:submit.prevent="validateBeforeSubmit" ref="contact">
+    <form accept-charset="UTF-8" method="POST" action="https://docs.google.com/spreadsheets/d/1o8ys1TbjshTOLbNH5-xtwoKCNAs6Zrx8RBl1aQEi_Vc/edit#gid=449555141{{ site.email }}" v-on:submit.prevent="validateBeforeSubmit" ref="contact">
       <fieldset>
         <input type="hidden" name="_subject" value="New contact!" />
         <input type="hidden" name="_next" value="{{ site.url }}/contact/message-sent/" />
