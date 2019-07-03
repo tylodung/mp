@@ -9,7 +9,7 @@ tags:
 - SP khác của AsiNice
 
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: Đơn giá 230K
+introduction: 230,000₫
 ---
 
 Kem dưỡng trắng da ngừa lão hoá AsiNice giúp dưỡng trắng da, ngăn ngừa lão hoá và nuôi dưỡng làn da giúp da tươi trẻ hơn, đặc biệt, đây là dòng kem chuyên dùng để phục hồi da hư tổn của AsiNice.

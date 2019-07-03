@@ -9,7 +9,7 @@ tags:
 - SP khác của AsiNice
 
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: Đơn giá 100K
+introduction: 100,000₫
 ---
 
 **Thành phần:**

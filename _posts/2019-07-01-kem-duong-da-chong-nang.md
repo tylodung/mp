@@ -9,7 +9,7 @@ tags:
 - SP khác của AsiNice
 
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: Đơn giá 230K
+introduction: 230,000₫
 ---
 
 **Thành phần:** Tinh chất củ đậu, water, jasminum officinale oil, sterculia urens gum, pachyrrhizus erosus root extract, panax ginseng root extract, althaea rosea flower extract, glycerin, parfum.

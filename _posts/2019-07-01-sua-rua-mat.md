@@ -9,7 +9,7 @@ tags:
 - SP khác của AsiNice
 
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: Đơn giá 70K
+introduction: 70,000₫
 ---
 
 **Thành phần:** bengkoang (tinh chất củ đậu), Water, sodium laureth sulfate, propylene glycol, camellia sinensis leaf extract (Tinh chất trà xanh), sodium chloride, glycerin, pearl powder, sulurized jojoba oil, cocamidopropyl betaine, decyl glucoside, panthenol , tocopherol , niacinamide , Sterculia Urens Gum (tinh chất mủ trôm), parfum, triclosan.

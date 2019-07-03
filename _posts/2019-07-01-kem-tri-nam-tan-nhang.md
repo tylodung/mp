@@ -9,7 +9,7 @@ tags:
 - SP khác của AsiNice
 
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: Đơn giá 260K
+introduction: 260,000₫
 ---
 
 Kem trị nám Asinice giúp trị nám và “đánh bay” các vết tàn nhang từ bên ngoài mà không làm tổn thương da. Kem trị nám Asinice được chiết xuất 100% từ tinh chất củ đậu (củ sắn) và các thành phần tự nhiên khác, giúp thấm sâu vào lớp hạ bì của da, đánh bay chân nám – tàn nhang, làm da trắng hồng mịn màng; ngoài ra còn bảo vệ da khỏi tia UV và các tác động có hại từ môi trường.

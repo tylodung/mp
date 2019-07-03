@@ -9,7 +9,7 @@ tags:
 - SP khác của AsiNice
 
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: Đơn giá 220K
+introduction: 220,000₫
 ---
 
 **Thành phần:** Tinh chất hoa hồng, Water, Jasminium Officiale Oil Sterculic and acid Sterculia Foetida (tinh chất mủ trôm) Panax Ginseng C.A.Mey, Glycerin, Fragrance.

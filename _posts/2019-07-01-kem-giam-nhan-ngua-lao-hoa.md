@@ -9,7 +9,7 @@ tags:
 - SP khác của AsiNice
 
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: Đơn giá 220K
+introduction: 220,000₫
 ---
 
 Kem giảm nhăn ngăn ngừa lão hoá AsiNice được nghiên cứu và chiết xuất hoàn toàn từ các thành phần tự nhiên, đảm bảo an toàn cho da.
