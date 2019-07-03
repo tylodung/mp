@@ -14,13 +14,7 @@ permalink: /contact/
 
 <div class="container">
 
-  <h2>Thông tin chi tiết
-
-Tên gọi: Mỹ Phẩm Á Châu hoặc Mỹ Phẩm AsiNice.
-
-Điện thoại liên hệ: 090 268 3189 (Đoàn Bình)
-
-Địa chỉ: 21/4A Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh.</h2>
+  <h2>Thông tin Đặt Hàng</h2>
 
   <div id="form" class="contact-form">
     <form accept-charset="UTF-8" method="POST" action="https://formspree.io/{{ site.email }}" v-on:submit.prevent="validateBeforeSubmit" ref="contact">
@@ -29,11 +23,13 @@ Tên gọi: Mỹ Phẩm Á Châu hoặc Mỹ Phẩm AsiNice.
         <input type="hidden" name="_next" value="{{ site.url }}/contact/message-sent/" />
         <input type="hidden" name="_language" value="en" />
 
-        <legend>Personalia:</legend>
+        <legend><p>Điện thoại liên hệ: 090 268 3189 (Đoàn Bình)</p>
+
+Địa chỉ: 21/4A Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh.</legend>
     Name: <input type="text"><br>
     Email: <input type="text"><br>
     Date of birth: <input type="text"><br>
-    Date of birth: <textarea name="message" placeholder="Test Message"></textarea>
+    Nội Dung: <textarea name="message" placeholder="Test Message"></textarea>
 
 
         <button type="submit">Send</button>
