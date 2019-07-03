@@ -20,9 +20,7 @@ Tên gọi: Mỹ Phẩm Á Châu hoặc Mỹ Phẩm AsiNice.
 
 Điện thoại liên hệ: 090 268 3189 (Đoàn Bình)
 
-Địa chỉ: 21/4A Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh.
-
-Facebook chính: Mỹ Phẩm Thiên Nhiên Cao Cấp AsiNice Facebook Page Đặt hàng & Nhắn tin Message, Chăm sóc khách hàng qua Facebook: Send Message, Order, CSKH via Fanpage</h2>
+Địa chỉ: 21/4A Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh.</h2>
 
   <div id="form" class="contact-form">
     <form accept-charset="UTF-8" method="POST" action="https://formspree.io/{{ site.email }}" v-on:submit.prevent="validateBeforeSubmit" ref="contact">
