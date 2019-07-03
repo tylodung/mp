@@ -63,3 +63,25 @@ new Vue({
   }
 });
 </script>
+function guiBieuMau(e)
+{
+  // Thay thế bằng địa chỉ email của bạn
+  var email = "doan.trong.quoc.binh@gmail.com";
+  // Tiêu đề của email được gửi về
+  var subject = "Đơn đặt hàng";
+  // Không rành thì đùng đụng vào code ở dưới nhé
+  var s = SpreadsheetApp.getActiveSheet();
+  var columns = s.getRange(1,1,1,s.getLastColumn()).getValues()[0];  
+  var message = "";  
+  // Lấy ra những thông tin nào có dữ liệu điền vào
+  for ( var keys in columns ) {
+    var key = columns[keys];
+    if ( e.namedValues[key] && (e.namedValues[key] != "") ) {
+
+      message += key + ' :: '+ e.namedValues[key] + "\n\n";
+    }
+  }
+  // Dùng MailApp service của Google Apps Script để gửi về email của bạn.
+  MailApp.sendEmail(email, subject, message);
+
+}
