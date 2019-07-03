@@ -17,7 +17,7 @@ permalink: /contact/
   <h2>Thông tin Đặt Hàng</h2>
 
   <div id="form" class="contact-form">
-    <form accept-charset="UTF-8" method="POST" action="https://docs.google.com/spreadsheets/d/1o8ys1TbjshTOLbNH5-xtwoKCNAs6Zrx8RBl1aQEi_Vc/edit#gid=449555141" v-on:submit.prevent="validateBeforeSubmit" ref="contact">
+    <form accept-charset="UTF-8" method="POST" action="https://formspree.io/{{ site.email }}" v-on:submit.prevent="validateBeforeSubmit" ref="contact">
       <fieldset>
         <input type="hidden" name="_subject" value="New contact!" />
         <input type="hidden" name="_next" value="{{ site.url }}/contact/message-sent/" />
@@ -38,25 +38,28 @@ permalink: /contact/
 
 </div>
 
-function guiBieuMau(e)
-{
-  // Thay thế bằng địa chỉ email của bạn
-  var email = "doan.trong.quoc.binh@gmail.com";
-  // Tiêu đề của email được gửi về
-  var subject = "Đơn đặt hàng";
-  // Không rành thì đùng đụng vào code ở dưới nhé
-  var s = SpreadsheetApp.getActiveSheet();
-  var columns = s.getRange(1,1,1,s.getLastColumn()).getValues()[0];  
-  var message = "";  
-  // Lấy ra những thông tin nào có dữ liệu điền vào
-  for ( var keys in columns ) {
-    var key = columns[keys];
-    if ( e.namedValues[key] && (e.namedValues[key] != "") ) {
+<script type="text/javascript">
+function adjust_textarea(h) {
+    h.style.height = "200px";
+    h.style.height = (h.scrollHeight)+"px";
+}
+</script>
 
-      message += key + ' :: '+ e.namedValues[key] + "\n\n";
+<script src="https://unpkg.com/vue@2.4.2"></script>
+<script src="https://unpkg.com/vee-validate@2.0.0-rc.8"></script>
+<script type="text/javascript">
+Vue.use(VeeValidate);
+
+new Vue({
+  el: '#form',
+  delimiters: ['${', '}'],
+  methods: {
+    validateBeforeSubmit: function () {
+      this.$validator.validateAll();
+      if (!this.errors.any()) {
+        this.$refs.contact.submit();
+      }
     }
   }
-  // Dùng MailApp service của Google Apps Script để gửi về email của bạn.
-  MailApp.sendEmail(email, subject, message);
-
-}
+});
+</script>
