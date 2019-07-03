@@ -5,7 +5,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img itemprop="image" class="img-rounded" src="http://res.cloudinary.com/dm7h7e8xj/image/upload/c_fill,h_200,w_200/v1504971955/neo_ruqszk.jpg" alt="Your Name">
+<img itemprop="image" class="img-rounded" src="https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.0-9/65467515_1328036360683799_1733034460875587584_n.jpg?_nc_cat=101&_nc_eui2=AeGcKvGzsJMBB0GXuYbipGV-z4fdsXYITsqi8l4AACAfhG4pLX3uC-mswl9astG9PRfH5Y4fcA3SO3WZIbBbFOwNyWZDIN6npDQiRyuxCKkmsQ&_nc_oc=AQmEkQ0aEq_UDe0QMWqpHVA8sNunIf8CxxdzGmV48KlUNr9xAhX4Tk9TDTnLafPlUCA&_nc_ht=scontent.fsgn2-4.fna&oh=bac0d5d1585e612142103aad19a69535&oe=5DAC34DC" alt="Your Name">
 
 
 
