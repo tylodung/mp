@@ -1,13 +1,4 @@
 <footer>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- moinhabe -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:120px"
-     data-ad-client="ca-pub-6020662213494913"
-     data-ad-slot="4727249392"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     <p>
       {% if site.github_username %}
       <a itemprop="github" href="https://github.com/{{ site.github_username }}" title="Github">
