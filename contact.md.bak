@@ -32,7 +32,7 @@ permalink: /contact/
     <span>Nội Dung:</span> <textarea name="message" placeholder="tên sản phẩm muốn mua"></textarea>
 
 
-        <button type="submit">Send</button>
+        <button type="submit">ĐẶT HÀNG</button>
       </fieldset>
     </form>
   </div>
