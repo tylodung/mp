@@ -15,7 +15,13 @@
                         <time itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}" class="date">
                             {% include date.html date=page.date %}
                         </time>
-						<center><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    {% endif %}
+                    <svg id="clock" class="icon-clock"><use xlink:href="#icon-clock"></use></svg>
+                    <span>{{ minutesText }}</span>
+                </p>
+                <h1 class="post-title" itemprop="name">{{ page.title }}</h1>
+                <p itemprop="description" class="subtitle">{{ page.description }}</p>
+				<p><center><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- moinune -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:700px;height:150px"
@@ -23,13 +29,7 @@
      data-ad-slot="8167214222"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script></center>
-                    {% endif %}
-                    <svg id="clock" class="icon-clock"><use xlink:href="#icon-clock"></use></svg>
-                    <span>{{ minutesText }}</span>
-                </p>
-                <h1 class="post-title" itemprop="name">{{ page.title }}</h1>
-                <p itemprop="description" class="subtitle">{{ page.description }}</p>
+</script></center></p>
 				
 
                 {% if page.image %}
