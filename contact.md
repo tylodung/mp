@@ -19,10 +19,10 @@ permalink: /contact/
   <p>Địa chỉ: 21/4A Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh.</p>
 
   <div id="form" class="contact-form">
-    <form accept-charset="UTF-8" method="POST" 
-    <li><a class="feed" href="https://docs.google.com/forms/d/e/1FAIpQLSfFzVUIZlyyK-TiKsZNTf-MKubPu_ip7zJQUpQzLq4JcsBVOw/viewform" title="Atom/RSS feed"><button type="submit">ĐẶT HÀNG</button></a></li>
+     
+    <li><a class="feed" href="https://docs.google.com/forms/d/e/1FAIpQLSfFzVUIZlyyK-TiKsZNTf-MKubPu_ip7zJQUpQzLq4JcsBVOw/viewform" title="Bấm ngay"><button type="submit">ĐẶT HÀNG</button></a></li>
       
-    </form>
+    
   </div>
 
 </div>
