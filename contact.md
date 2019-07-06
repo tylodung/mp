@@ -15,8 +15,8 @@ permalink: /contact/
 <div class="container">
 
   <h2>Liên hệ</h2>
-  <p>Điện thoại liên hệ: 090 268 3189</p>
-  <p>Địa chỉ: 21/4A Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh.</p>
+  <p><span>Điện thoại liên hệ:</span> 090 268 3189</p>
+  <p><span>Địa chỉ:</span> 21/4A Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh.</p>
 
   <div id="form" class="contact-form">
      
