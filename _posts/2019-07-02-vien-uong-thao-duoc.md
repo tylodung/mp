@@ -9,7 +9,7 @@ tags:
 - SP khác của N.G
 
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: [color=#FF0000]8,000,000₫[/color] <del>8,500,000₫ </del>
+introduction: 8,000,000₫ <del>8,500,000₫ </del>
 ---
 
 **Thành phần:** Coffea Arabica - Coffea Robusta - Mimosa Pudica L - Asteraceae - Rosaceae- Delphimum Ajasis L - Bauhinia Variegata- Lavandula Augustifolia - Latuca Indca - Telosma Cordata - Glysine Max - Panax Ginseng- Poria CoCos Wifd - Beta Caroten - Lycopen - Vitamin E - Oleic( omega 9 ) - Linoleic ( omega 6 ) - Stearic - Palmatic - Cobon - Selen - Insoleucine - Lysine - Methionine - Cystein - Phenylatanin Theronine - Trytophane - Valine - Histidin - Lipid - Acid Steanic -  Acid Limolenic - Acid Oleic - Cellulose - Hemicellulose - Stachyose - Rafinose - Saccharose - Saponin - Pachymoce - Trirpenoider... 
