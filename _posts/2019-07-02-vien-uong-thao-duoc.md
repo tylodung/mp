@@ -65,8 +65,6 @@ Uống nhiều nước mát.
 
 Sản phẩm này là thuần thảo dược, không chứa các thành phần từ động vật, không chứa hóa chất gây hại. Thích hợp cho tất cả mọi người bao gồm người ăn chay (VEGAN).
 
-
+![ten buc hinh](https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-9/15622211_1032302926896854_8423186336562218088_n.jpg?_nc_cat=103&_nc_oc=AQkTOidamM9UqIzoUZ0QKMrMeq-bwNfvtjDY7FfXSmYFR_ea34T9RBUT6lFslOkYfsOOv0nYKFygNNwmVqmSycTe&_nc_ht=scontent.fsgn2-1.fna&oh=a06cd6ec8fee5fca4ee4d65693003057&oe=5DC505A4 "ten buc hinh")
 
 **SẢN PHẨM KHÔNG CÓ BẤT KỲ THỬ NGHIỆM NÀO TRÊN ĐỘNG VẬT (DO NOT TESTED ON ANIMALS)**
-
-![ten buc hinh](https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-9/15622211_1032302926896854_8423186336562218088_n.jpg?_nc_cat=103&_nc_oc=AQkTOidamM9UqIzoUZ0QKMrMeq-bwNfvtjDY7FfXSmYFR_ea34T9RBUT6lFslOkYfsOOv0nYKFygNNwmVqmSycTe&_nc_ht=scontent.fsgn2-1.fna&oh=a06cd6ec8fee5fca4ee4d65693003057&oe=5DC505A4 "ten buc hinh")
