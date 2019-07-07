@@ -50,11 +50,13 @@ Nâng đỡ và làm săn chắc da vùng mặt, ngực, mông và toàn bộ c�
 
 Làm căng và mịn da giúp tăng cường độ rạng rỡ khiến bạn trẻ trung hơn.
 
-*CÁCH DÙNG*
+![ten buc hinh](https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-9/48207449_1782926885167784_8018642605204045824_n.jpg?_nc_cat=107&_nc_oc=AQkFmwyG_m6qFl4loE2wPiYOKR9D4HXtFe_Jui-QlqEWpVH9uBoIX_NBNo3Dz3HNQY7qcGKTrQ4d6IL1N3bF3Tqg&_nc_ht=scontent.fsgn2-1.fna&oh=5bc5ea3571ded3ea2109c968dbb94f1c&oe=5DAB5AA6 "ten buc hinh")
+
+**CÁCH DÙNG**
 
 Dùng để uống. Ngày uống 2 lần, mỗi lần 2 - 3 viên trước hoặc sau khi ăn 30 phút. Sử dụng liên tục không cách quãng để đạt hiệu quả tối ưu
 
-*LƯU Ý*
+**LƯU Ý**
 
 Hạn chế ăn thức ăn dầu mỡ, đồ cay nóng
 
@@ -62,6 +64,10 @@ Uống nhiều nước mát.
 
 Đặc biệt không ăn nhiều đồ chua trong khoảng 1 giờ sau khi uống sẽ làm giảm hiệu quả của sản phẩm
 
- Sản phẩm này là thuần thảo dược, không chứa các thành phần từ động vật, không chứa hóa chất gây hại. Thích hợp cho tất cả mọi người bao gồm người ăn chay ( VEGAN )
+Sản phẩm này là thuần thảo dược, không chứa các thành phần từ động vật, không chứa hóa chất gây hại. Thích hợp cho tất cả mọi người bao gồm người ăn chay ( VEGAN )
+
+![ten buc hinh](https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-9/29497720_1446587852135024_5214113318368706560_n.jpg?_nc_cat=105&_nc_oc=AQknXunzLfQxCBIsctYCJeopfHQUJGTOq2RJOUU2Jq58ZHuVSimqQQViGpIIl57UyHxmsUYk6f5PZE9dNdbVGSaA&_nc_ht=scontent.fsgn2-1.fna&oh=959c211b81b57c55610eb3559fc25dd5&oe=5DBC1A7F "ten buc hinh")
 
 **SẢN PHẨM KHÔNG CÓ BẤT KỲ THỬ NGHIỆM NÀO TRÊN ĐỘNG VẬT (DO NOT TESTED ON ANIMALS)**
+
+![ten buc hinh](https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-9/15622211_1032302926896854_8423186336562218088_n.jpg?_nc_cat=103&_nc_oc=AQkTOidamM9UqIzoUZ0QKMrMeq-bwNfvtjDY7FfXSmYFR_ea34T9RBUT6lFslOkYfsOOv0nYKFygNNwmVqmSycTe&_nc_ht=scontent.fsgn2-1.fna&oh=a06cd6ec8fee5fca4ee4d65693003057&oe=5DC505A4 "ten buc hinh")
