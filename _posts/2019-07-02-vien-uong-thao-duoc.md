@@ -22,6 +22,7 @@ introduction: 8,000,000₫ <del>8,500,000₫ </del>
 
 **Hạn sử dụng:** Xem trên bao bì.
 
+![ten buc hinh](https://scontent.fsgn2-3.fna.fbcdn.net/v/t1.0-9/66482736_1331757193645049_2650882776055676928_n.jpg?_nc_cat=108&_nc_oc=AQmeaRTLs_qiuP68UMMRSPPRND24SGGPKlPpOccGoyySEIGwHb0EHnQMZebVAagyUjQIJyPh1Ir55eTR4XN8uPgR&_nc_ht=scontent.fsgn2-3.fna&oh=983cf09dd43bf403af2ab07b0d49228f&oe=5DC71579 "ten buc hinh")
 **Cách sử dụng:**
 
 *CÂN BẰNG NỘI TIẾT TỐ*
@@ -32,7 +33,7 @@ Bổ dung các dưỡng chất thiếu hụt cho cơ thể.
 
 Thanh lọc và đào thải độc tố.
 
-Tăng cường sức đề kháng
+Tăng cường sức đề kháng.
 
 *TRỊ NÁM VÀ TÀN NHANG TRIỆT ĐỂ*
 
@@ -50,23 +51,21 @@ Nâng đỡ và làm săn chắc da vùng mặt, ngực, mông và toàn bộ c�
 
 Làm căng và mịn da giúp tăng cường độ rạng rỡ khiến bạn trẻ trung hơn.
 
-![ten buc hinh](https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-9/48207449_1782926885167784_8018642605204045824_n.jpg?_nc_cat=107&_nc_oc=AQkFmwyG_m6qFl4loE2wPiYOKR9D4HXtFe_Jui-QlqEWpVH9uBoIX_NBNo3Dz3HNQY7qcGKTrQ4d6IL1N3bF3Tqg&_nc_ht=scontent.fsgn2-1.fna&oh=5bc5ea3571ded3ea2109c968dbb94f1c&oe=5DAB5AA6 "ten buc hinh")
-
 **CÁCH DÙNG**
 
-Dùng để uống. Ngày uống 2 lần, mỗi lần 2 - 3 viên trước hoặc sau khi ăn 30 phút. Sử dụng liên tục không cách quãng để đạt hiệu quả tối ưu
+Dùng để uống. Ngày uống 2 lần, mỗi lần 2 - 3 viên trước hoặc sau khi ăn 30 phút. Sử dụng liên tục không cách quãng để đạt hiệu quả tối ưu.
 
 **LƯU Ý**
 
-Hạn chế ăn thức ăn dầu mỡ, đồ cay nóng
+Hạn chế ăn thức ăn dầu mỡ, đồ cay nóng.
 
 Uống nhiều nước mát.
 
-Đặc biệt không ăn nhiều đồ chua trong khoảng 1 giờ sau khi uống sẽ làm giảm hiệu quả của sản phẩm
+Đặc biệt không ăn nhiều đồ chua trong khoảng 1 giờ sau khi uống sẽ làm giảm hiệu quả của sản phẩm.
 
-Sản phẩm này là thuần thảo dược, không chứa các thành phần từ động vật, không chứa hóa chất gây hại. Thích hợp cho tất cả mọi người bao gồm người ăn chay ( VEGAN )
+Sản phẩm này là thuần thảo dược, không chứa các thành phần từ động vật, không chứa hóa chất gây hại. Thích hợp cho tất cả mọi người bao gồm người ăn chay (VEGAN).
 
-![ten buc hinh](https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-9/29497720_1446587852135024_5214113318368706560_n.jpg?_nc_cat=105&_nc_oc=AQknXunzLfQxCBIsctYCJeopfHQUJGTOq2RJOUU2Jq58ZHuVSimqQQViGpIIl57UyHxmsUYk6f5PZE9dNdbVGSaA&_nc_ht=scontent.fsgn2-1.fna&oh=959c211b81b57c55610eb3559fc25dd5&oe=5DBC1A7F "ten buc hinh")
+
 
 **SẢN PHẨM KHÔNG CÓ BẤT KỲ THỬ NGHIỆM NÀO TRÊN ĐỘNG VẬT (DO NOT TESTED ON ANIMALS)**
 
