@@ -2,7 +2,7 @@
 layout: post
 title: "Kem dưỡng da B1"
 date: 2019-07-01 12:26:40
-image: 'https://myphamcacloai.net/artists/serum-nano/vang.jpg'
+image: 'https://scontent.fsgn2-2.fna.fbcdn.net/v/t1.0-9/66119960_1332215403599228_7828672589634469888_n.jpg?_nc_cat=103&_nc_oc=AQlZtR5USnk0lSTQgy246olv-kx_Ppwx-oBJUKTMc0UU_wwnDBDT3Vx99BUbG3h_IbtPGOD9n7B5bGE4MXXe72yB&_nc_ht=scontent.fsgn2-2.fna&oh=e69123440472796d83b63a3396d07b90&oe=5DC27160'
 description: Điện thoại giao ngay 090 268 3189
 category: 'AsiNice'
 tags:

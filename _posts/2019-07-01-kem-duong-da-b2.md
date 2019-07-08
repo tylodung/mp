@@ -2,7 +2,7 @@
 layout: post
 title: "Kem dưỡng da B2"
 date: 2019-07-01 12:26:40
-image: 'https://myphamcacloai.net/artists/tay-te-bao-chet-hh/tay-hong.jpg'
+image: 'https://scontent.fsgn2-3.fna.fbcdn.net/v/t1.0-9/66135573_1332215380265897_5926477573335810048_n.jpg?_nc_cat=110&_nc_oc=AQn-yM7KuVN3rN8NlpQCiKnlWJiNJtCgvLnc3uqO7mS7K4isap9tej2_zH9Hnf9l49-3NEWD8VD1oHklahueQRZ-&_nc_ht=scontent.fsgn2-3.fna&oh=8c8d7dbf71a6d692150db6de807c9027&oe=5DBA5A72'
 description: Điện thoại giao ngay 090 268 3189
 category: 'AsiNice'
 tags:

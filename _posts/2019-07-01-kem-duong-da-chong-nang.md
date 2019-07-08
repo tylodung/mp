@@ -2,7 +2,7 @@
 layout: post
 title: "Kem dưỡng da - chống nắng"
 date: 2019-07-01 12:26:40
-image: 'https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.0-9/66187743_1328012990686136_5370632818672009216_n.jpg?_nc_cat=111&_nc_oc=AQlCwwGZtDq5keyL9_PMwlpWcTQLMLQetQhkibgr4qDPhqJVt3J02X_EslB-L3Jy6U4&_nc_ht=scontent.fsgn2-4.fna&oh=dbb57ff8fea3acef0ee2c3ffc88740bb&oe=5DC58022'
+image: 'https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-9/66043124_1332216730265762_5515509848046829568_n.jpg?_nc_cat=107&_nc_oc=AQkpxYndJuvUYzsjUQ-WapNqA0MaRMwSDBXEpQ_yzF7oPgU4vQRPqC-bv2hLatIzP-qK0N4w9sScmuHZx8IKTOUb&_nc_ht=scontent.fsgn2-1.fna&oh=b5b31b26da7a577cb02fb221f31c2fe9&oe=5DB734FA'
 description: Điện thoại giao ngay 090 268 3189
 category: 'AsiNice'
 tags:
