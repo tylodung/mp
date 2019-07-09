@@ -23,6 +23,7 @@ introduction: 8,000,000₫ <del>8,500,000₫ </del>
 **Hạn sử dụng:** Xem trên bao bì.
 
 ![ten buc hinh](https://scontent.fsgn2-3.fna.fbcdn.net/v/t1.0-9/66482736_1331757193645049_2650882776055676928_n.jpg?_nc_cat=108&_nc_oc=AQmeaRTLs_qiuP68UMMRSPPRND24SGGPKlPpOccGoyySEIGwHb0EHnQMZebVAagyUjQIJyPh1Ir55eTR4XN8uPgR&_nc_ht=scontent.fsgn2-3.fna&oh=983cf09dd43bf403af2ab07b0d49228f&oe=5DC71579 "ten buc hinh")
+
 **Cách sử dụng:**
 
 *CÂN BẰNG NỘI TIẾT TỐ*
@@ -54,6 +55,9 @@ Làm căng và mịn da giúp tăng cường độ rạng rỡ khiến bạn tr�
 **CÁCH DÙNG**
 
 Dùng để uống. Ngày uống 2 lần, mỗi lần 2 - 3 viên trước hoặc sau khi ăn 30 phút. Sử dụng liên tục không cách quãng để đạt hiệu quả tối ưu.
+
+![ten buc hinh](https://scontent.fsgn2-3.fna.fbcdn.net/v/t1.0-9/66481113_1332885720198863_8523834383889596416_n.jpg?_nc_cat=106&_nc_oc=AQnmADkFU3JSqyO8tpBxc6_nEm9xgsbOBYSglVAoEH9eFYPdBoJ7kKKipiSr5uSgWcJupbk_G_I_XjGH8ugLq42p&_nc_ht=scontent.fsgn2-3.fna&oh=065164d498dd616560a2da0856bb1708&oe=5DAFAD7C "ten buc hinh")
+
 
 **LƯU Ý**
 

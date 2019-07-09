@@ -18,16 +18,21 @@ introduction: 1,250,000₫ <del>1,500,000₫ </del>
 
 **Xuất xứ:** Nhiên liệu Việt Nam, công nghệ Nhật Bản
 
-**Nhà sản xuất:** Công ty Asian Way – Thương hiệu Asinice 
+**Nhà sản xuất:** Công ty Asian Way – Thương hiệu N.G 
 
 **Hạn sử dụng:** Xem trên bao bì.
 
-**Cách sử dụng kem trị mụn Asinice:**
+![ten buc hinh](https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-9/66376216_1332885726865529_668518905232228352_n.jpg?_nc_cat=107&_nc_oc=AQlic8a_37YxxVxjBJdX1lbNrih0wwagu72KBXPSpJCKkt0fnw-RHFPyRXVJMblleqB4pY44uWCGx2HYB6VyYxa7&_nc_ht=scontent.fsgn2-1.fna&oh=8968c0bbd84ebd27d23394fe0c9ace3f&oe=5DC0DE4F "ten buc hinh")
 
-Làm sạch mặt bằng sữa rửa mặt, kế đến dùng NƯỚC HOA HỒNG (Toner)  để loại bỏ hoàn toàn chất bụi bẩn ẩn sâu bên trong lỗ chân lông.
+**Cách sử dụng:**
+
+Làm sạch mặt bằng sữa rửa mặt, kế đến dùng NƯỚC HOA HỒNG (Toner) để loại bỏ hoàn toàn chất bụi bẩn ẩn sâu bên trong lỗ chân lông.
 
 Lấy một lượng vừa đủ chấm lên vùng trán, cằm, mũi, hai bên má, xoa và massage mặt theo chiều kim đồng hồ, vỗ nhẹ cho thấm sâu. Xoa đều và massage lại lần nữa (massage càng nhiều da càng đẹp). Chờ và cảm nhận làn da của bạn.
 
-Khuyên dùng: 2-3 lần/ngày, dùng liên tục từ 10 ngày đến 4 tháng để cho làn da đẹp tự nhiên. Sử Dụng tốt nhất là theo liệu trình của Bộ Dưỡng Trắng Da Gồm: GEL TẨY TẾ BÀO CHẾT (Fresh Gel Whitening Moisturizing Facial and Body Scrub) + NƯỚC HOA HỒNG (Fresh Toner, Silky - Soothing) và cùng với KEM DƯỠNG TRẮNG DA (Whitening Moisturizing)  
+Khuyên dùng: 2-3 lần/ngày, dùng liên tục từ 10 ngày đến 4 tháng để cho làn da đẹp tự nhiên. Sử Dụng tốt nhất là theo liệu trình của Bộ Dưỡng Trắng Da Gồm: GEL TẨY TẾ BÀO CHẾT (Fresh Gel Whitening Moisturizing Facial and Body Scrub) + NƯỚC HOA HỒNG (Fresh Toner, Silky - Soothing) và cùng với KEM DƯỠNG TRẮNG DA (Whitening Moisturizing) 
+
+![ten buc hinh](https://scontent.fsgn2-2.fna.fbcdn.net/v/t1.0-9/66299599_1332885713532197_8610778978820554752_n.jpg?_nc_cat=102&_nc_oc=AQkLONwmBUI1ruS9c3nXGcF6VFjTdPENaTLrjtc4OuiaQPFD6OXF3cZtnzRnTPjbrV75kghDGukM4ueSYCEf4A-l&_nc_ht=scontent.fsgn2-2.fna&oh=d2fc0a4f02e08aa191ebf1347ef7adbd&oe=5DC220FC "ten buc hinh")
+
 
 *LƯU Ý:* Nếu bạn đang sử dụng kháng sinh liều cao phải tối thiểu 4 ngày sau khi ngưng dùng thuốc mới nên sử dụng vì sản phẩm được chiết xuất hoàn toàn từ thảo dược nên có thể gây phản ứng như ngứa, châm chích... trong vài lần sử dụng đầu tiên.
