@@ -17,6 +17,8 @@ Chiết xuất Tinh Chất Collagen tự nhiên từ Hồng sâm, tinh dầu G�
 
 Bằng công nghệ tiên tiến, vàng được nghiền nhỏ với kích cỡ NANO (siêu nhỏ) nên thẩm thấu rất nhanh. Các Ion vàng sẽ thấm qua da vào bên trong cơ thể, kích thích các tế bào trẻ hóa và mang lại sự tươi mới, trẻ trung cho làn da. Kết hợp hoàn hảo với các dưỡng chất như:  Lutein trong Kiwi , Lycopen và các acid béo Omega 3,6,9 trong tinh dầu Gấc, dưỡng chất Collagen trong Lô Hội, Vitamin trong tinh dầu Bưởi,  Saponin-Ginsenoside của Hồng Sâm... và các loại Thảo Dược khác khắc phục chảy xệ da vô cùng hiệu quả, đồng thời cung cấp các Collagen tái tạo làn da mới mang đến sức sống toàn diện
 
+![ten buc hinh](https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.0-9/66383624_1334576296696472_6425188615738884096_n.jpg?_nc_cat=109&_nc_oc=AQmr8igTu7u-PD6Iyr80BVgVDysuRvckw9YFoPHq9BSZzwtimRfca11PU9d2LfAc-ts&_nc_ht=scontent.fsgn2-4.fna&oh=07452eefcf7fde058ffd4d021c9f3fba&oe=5DB9D739 "ten buc hinh")
+
 **Quy cách đóng gói:** 10ml.
 
 **Xuất xứ:** Nhiên liệu Việt Nam, công nghệ Nhật Bản
@@ -25,6 +27,7 @@ Bằng công nghệ tiên tiến, vàng được nghiền nhỏ với kích cỡ
 
 **Hạn sử dụng:** Xem trên bao bì.
 
+![ten buc hinh](https://scontent.fsgn2-3.fna.fbcdn.net/v/t1.0-9/66353828_1334576150029820_2046433422691270656_n.jpg?_nc_cat=108&_nc_oc=AQlEnWNQgu_Kqutqid9A9HVn5NqYxkm7tUPbWxDiAbHF4aeGd_KBlYywBP9rtPfRDAU&_nc_ht=scontent.fsgn2-3.fna&oh=8a4508786014c655f53291d29ad3fb71&oe=5DB3BBBD "ten buc hinh")
 **Cách sử dụng:**
 
 Serum dùng cho cả ban ngày và ban đêm - Thích hợp với mọi loại da
@@ -37,4 +40,6 @@ Khuyên dùng: 2-3 lần/ngày, dùng liên tục từ 10 ngày đến 4 tháng 
 
 Điều trị tốt nhất là theo liệu trình của Bộ Chống Lão Hoá, Xoá Nếp Nhăn gồm: GEL TẨY TẾ BÀO CHẾT (Fresh Gel Whitening Moisturizing Facial and Body Scrub) + NƯỚC HOA HỒNG (Fresh Toner, Silky - Soothing) và cùng với KEM CHỐNG LÃO HÓA (Anti -  Ageing, Lifting Firming Anti-Wrinkle Cream.).
 
-*LƯU Ý:* Nếu bạn đang sử dụng kháng sinh liều cao phải tối thiểu 4 ngày sau khi ngưng dùng thuốc mới nên sử dụng vì sản phẩm được chiết xuất hoàn toàn từ thảo dược nên có thể gây phản ứng như ngứa, châm chích... trong vài lần sử dụng đầu tiên.
+![ten buc hinh](https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-9/66288373_1334576316696470_2090423014607814656_n.jpg?_nc_cat=104&_nc_oc=AQl4RTiQeJj9ZWfSLhPT9-q0ngYQh01y6l_dRQdX9QkkDnsRt59SBB4_1ZcAedCvyks&_nc_ht=scontent.fsgn2-1.fna&oh=578a05a162d846c694035988c866d3a6&oe=5DAE5F81 "ten buc hinh")
+
+**Lưu ý:** Nếu bạn đang sử dụng kháng sinh liều cao phải tối thiểu 4 ngày sau khi ngưng dùng thuốc mới nên sử dụng vì sản phẩm được chiết xuất hoàn toàn từ thảo dược nên có thể gây phản ứng như ngứa, châm chích... trong vài lần sử dụng đầu tiên.
