@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lem dưỡng trắng da Collagen"
+title: "Kem dưỡng trắng da Collagen"
 date: 2019-07-02 12:26:40
 image: 'https://scontent.fsgn2-3.fna.fbcdn.net/v/t1.0-9/66088761_1328143447339757_7023468411791343616_n.jpg?_nc_cat=106&_nc_oc=AQkpnTZqbdp0zZ2SHKcmZfRc5NHzHPpA8pXofuFDfEgbWHDdWuJiXio-ei8eazTLlgQ&_nc_ht=scontent.fsgn2-3.fna&oh=ce9e44cc4e764099cdbad2fc15649eef&oe=5DBFCFF7'
 description: Điện thoại giao ngay 090 268 3189
