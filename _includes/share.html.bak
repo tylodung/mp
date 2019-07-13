@@ -12,7 +12,7 @@
     onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;" title="Share on Google+">
         <svg class="icon icon-google-plus"><use xlink:href="#icon-google-plus"></use></svg>
     </a>
-	<marquee id="marq" scrollamount="3" direction="left" loop="60" scrolldelay="0" onmouseover="this.stop()" onmouseout="this.start()">
+	<marquee id="marq" scrollamount="3" direction="left" loop="50" scrolldelay="0" onmouseover="this.stop()" onmouseout="this.start()">
 
 <a href="Link"><img src="https://scontent.fsgn2-3.fna.fbcdn.net/v/t1.0-9/65520166_1328144850672950_7016732558746451968_n.jpg?_nc_cat=106&_nc_oc=AQkE6lBTeMNVEt7YmpH4792_hnJCA-aE5jfW1cJOe0RTQrHqTygQsHLXVIaUS0qCbto&_nc_ht=scontent.fsgn2-3.fna&oh=2447f893f1dd5d994701482d8d9f43f1&oe=5DB709AF" title="Ghi chú cho ảnh" width="300" height="300"/> </a>
 
