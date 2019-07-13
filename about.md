@@ -19,6 +19,8 @@ Trước tiên, bạn hãy nên tham khảo danh mục sản phẩm làm trắng
 
 Xin liên hệ đường dây nóng **090-268-3189** Đoàn Bình giao hàng tận nơi trong ngày.
 
+![ten buc hinh](https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-9/66456859_1336193553201413_5640847550773723136_n.jpg?_nc_cat=105&_nc_oc=AQmzqffDTdbvtVGVOyJmeJdVCpaaEbhUANVGa-Nr8u1tIeNn0WyHYS93le55_gXrXG0&_nc_ht=scontent.fsgn2-1.fna&oh=d9ff904645515fffa6f60d4c4f164002&oe=5DC01EF0 "ten buc hinh")
+
 ## Mọi vấn đề phát sinh khác
 
 Hãy liên hệ trực tiếp chúng tôi theo số điện thoại được ghi dưới đây **090-268-3189** Đoàn Bình. hãy cẩn trọng bạn nhé, nếu bạn bất chợt gọi tới và bị hỏi những câu hỏi đầy quan tâm liên tiếp xin đừng choáng ngợp, bởi quan tâm đến cảm nhận của khách hàng là mối quan tâm hàng đầu của **Siêu Thị Mỹ Phẩm**.
@@ -26,3 +28,6 @@ Hãy liên hệ trực tiếp chúng tôi theo số điện thoại được ghi
 Trong trường hợp mà gọi mãi vẫn không được, bạn hãy truy cập vào địa chỉ Facebook sau đây Facebook **Siêu Thị Mỹ Phẩm** đội ngũ quản trị sẽ tìm hiểu ra những vấn đề gặp phải và cố gắng khắc phục, hỗ trợ bạn trong suốt quá trình đó. Hãy an tâm tận hưởng dịch vụ của **Siêu Thị Mỹ Phẩm** bạn nhé.
 
 Thân chào! Đội ngũ phát triển và hỗ trợ Khách Hàng **Siêu Thị Mỹ Phẩm** hân hạnh đồng hành cùng bạn.
+
+![ten buc hinh](https://scontent.fsgn2-2.fna.fbcdn.net/v/t1.0-9/66382339_1336193579868077_190184291487973376_n.jpg?_nc_cat=102&_nc_oc=AQl4mxWZq6OC1DSkvhDI85AOkdk5FsaSqp5XlS56qQWfLOPtE-5A3eJnGYBJj5khIr0&_nc_ht=scontent.fsgn2-2.fna&oh=2f040def73db91eedb3ce745660ee1c3&oe=5DB860F2 "ten buc hinh")
+
