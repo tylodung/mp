@@ -11,7 +11,7 @@
             <article role="article" id="post" class="post-content" itemprop="articleBody">
                 <p itemprop="post-info" class="post-info">
                     {% if page.date %}
-					<font color="#FF0000"><marquee direction="left" style="background:Silver">[TẶNG SỮA RỬA MẶT MIỄN PHÍ] ♨️ Thời gian diễn ra: Từ ngày 16/7/2019 đến hết 23/7/2019. ♨️ Thể lệ chương trình: Khi các bạn LIKE và SHARE, sau đó bạn hãy BÌNH Luận số điện thoại và địa chỉ để bên shop ship cho bạn. Bạn sẽ nhận được 1 SỮA RỬA MẶT ASINICE miễn phí. Chi tiết hơn tại Fanpage trong mục Liên Hệ.</marquee></font>
+					<font color="#FF0000"><marquee direction="left" style="background:Silver">Siêu Thị Mỹ Phẩm hân hạnh phục vụ Quý Khách!</marquee></font>
                         <svg id="date" class="icon-calendar"><use xlink:href="#icon-calendar"></use></svg>
                         <time itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}" class="date">
                             {% include date.html date=page.date %}
