@@ -2,7 +2,7 @@
 layout: post
 title: "Kem dưỡng da - chống nắng"
 date: 2019-07-01 12:26:40
-image: 'https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-9/66043124_1332216730265762_5515509848046829568_n.jpg?_nc_cat=107&_nc_oc=AQkpxYndJuvUYzsjUQ-WapNqA0MaRMwSDBXEpQ_yzF7oPgU4vQRPqC-bv2hLatIzP-qK0N4w9sScmuHZx8IKTOUb&_nc_ht=scontent.fsgn2-1.fna&oh=b5b31b26da7a577cb02fb221f31c2fe9&oe=5DB734FA'
+image: 'https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-9/66672493_1337474513073317_266655097566527488_n.jpg?_nc_cat=107&_nc_oc=AQndMQsrOFZBQPPyOvKS9gQARDFp0UuhpwPS9h7h60v2XaeOSKx9HqQWj9m1b9AKeFg&_nc_ht=scontent.fsgn2-1.fna&oh=729c3d205a80475b58c6eb197ecd207c&oe=5DC1EEF8'
 description: Điện thoại giao ngay 090 268 3189
 category: 'AsiNice'
 tags:
@@ -21,6 +21,8 @@ introduction: 230,000₫
 **Nhà sản xuất:** Công ty Asian Way – Thương hiệu Asinice 
 
 **Hạn sử dụng:** Xem trên bao bì.
+
+![ten buc hinh](https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-9/67278306_1337474353073333_2769943216575741952_n.jpg?_nc_cat=104&_nc_oc=AQlutFqx0ctKV0-IBBKRpO2oAFYG2tXybVgIBKfpNpHXBD48UURskbYWZOSiMi1Zm20&_nc_ht=scontent.fsgn2-1.fna&oh=a73c1683f2459f28e4977d3134c3289b&oe=5DACBEB1 "ten buc hinh")
 
 **Cách sử dụng:**
 
