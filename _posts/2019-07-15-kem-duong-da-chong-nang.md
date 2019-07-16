@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kem dưỡng da - chống nắng"
-date: 2019-07-01 12:26:40
+date: 2019-07-15 12:26:40
 image: 'https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-9/66672493_1337474513073317_266655097566527488_n.jpg?_nc_cat=107&_nc_oc=AQndMQsrOFZBQPPyOvKS9gQARDFp0UuhpwPS9h7h60v2XaeOSKx9HqQWj9m1b9AKeFg&_nc_ht=scontent.fsgn2-1.fna&oh=729c3d205a80475b58c6eb197ecd207c&oe=5DC1EEF8'
 description: Điện thoại giao ngay 090 268 3189
 category: 'AsiNice'
@@ -28,6 +28,6 @@ introduction: 230,000₫
 
 Kem dưỡng da chống nắng tinh chất củ đậu là kem sử dụng vào ban ngày. Thoa kem một lớp mỏng lên mặt, massage nhè nhẹ và để lớp kem trên mặt trong vòng 4 tiếng rồi rửa thật sạch bằng nước. Một ngày có thể thoa kem từ 2-4 lần.
 
-*Chú ý:* Để tăng hiệu quả dưỡng da, giữ ẩm cho da, AsiNice đề nghị bạn nên uống nhiều nước, ăn nhiều rau củ, quả trong thực đơn hằng ngày.
-
 **Sản phẩm dùng chung:** Kem làm trắng da và chống lão hoá dùng ban đêm.
+
+**Chú ý:** Để tăng hiệu quả dưỡng da, giữ ẩm cho da, AsiNice đề nghị bạn nên uống nhiều nước, ăn nhiều rau củ, quả trong thực đơn hằng ngày.
