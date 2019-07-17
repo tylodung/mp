@@ -18,6 +18,8 @@ Kem dưỡng trắng da ngừa lão hoá AsiNice giúp dưỡng trắng da, ngă
 
 Tinh chất củ đậu, Bột ngọc trai, tinh chất Colagen, tinh chất tế bào gốc, Tảo Spirulila, Chiết xuất dầu oliu, vitamin E, Vitamin C tinh khiết, vitamin A, tinh chất Omega 3, tinh chất nha đam, chất chống nắng
 
+![ten buc hinh](https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.0-9/67445052_1338941819593253_2420063833339985920_n.jpg?_nc_cat=111&_nc_eui2=AeEP_psrqS6yHAc5wb50EfDkdN_S2iCGNx4SpevKG0zLt7qbSdfKnq263geZSl18qNKPfLQLJwgBM2tfjINPZAj_uY12g4E-5gdQa1X-fiYOHA&_nc_oc=AQkkjTMpcysjR0OmLRSkYe_OjOs9H97fPiMLcWTqWLK49GDCt5CfUhneL_J9Xg45iPg&_nc_ht=scontent.fsgn2-4.fna&oh=94e0783bf82ca92412d56bcfeaccbe41&oe=5DC0D4D2 "ten buc hinh")
+
 **Công dụng kem giảm nhăn ngăn ngừa, chống lão hoá da AsiNice:**
 
 Dưỡng trắng da, tạo sự đàn hồi cho da, hồi sinh sức sống và giảm độ nhờn cho da, giữ cho làn da trắng hồng mềm mại, sản phẩm chống lại sự sớm lão hóa của làn da, phục hồi tế bào có lợi cho da sau một đêm, kem dạng sữa nên việc hấp thụ qua da một cách dễ dàng không gây khó chịu.

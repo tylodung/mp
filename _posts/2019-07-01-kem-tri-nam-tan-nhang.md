@@ -2,7 +2,7 @@
 layout: post
 title: "Kem trị nám - tàn nhang"
 date: 2019-07-01 12:26:40
-image: 'https://scontent.fsgn2-3.fna.fbcdn.net/v/t1.0-9/65547966_1328021334018635_6814972449927462912_n.jpg?_nc_cat=106&_nc_oc=AQkuQVbO82Qsy8E0zpoHX_EbOj-Ks86BWXioFK6cv-InZ0n82Yx9Yv1_zb3Zd4iW7-M&_nc_ht=scontent.fsgn2-3.fna&oh=de3b13bb0f18fda823f218b333e8c10b&oe=5D835027'
+image: 'https://scontent.fsgn2-3.fna.fbcdn.net/v/t1.0-9/66596485_1338941672926601_5176819266934013952_n.jpg?_nc_cat=110&_nc_eui2=AeHkSmiYa6ywZXt7g9VBHSvwkY_Or_B4udUWp4F2MAjSwUR9e7SCV6PQs9h6vEXJks0SaYPt-6SEi0OXscB210SeNs2gGpNGlWY-ByounDQMpQ&_nc_oc=AQloXUaugVJdhnrOQTNWa5RWhMUWXngkeZ5DNHYF2Vmp9aAvSm7H036vyVG415HFu9g&_nc_ht=scontent.fsgn2-3.fna&oh=4c4fe968b393fb153b8cce7ba406d967&oe=5DB5BEA8'
 description: Điện thoại giao ngay 090 268 3189
 category: 'AsiNice'
 tags:
@@ -21,6 +21,8 @@ Với sản phẩm Kem trị nám Asinice chị em phụ nữ sẽ nhanh chóng 
 **Quy cách đóng gói:** Hộp 30 gr.
 
 **Xuất xứ:** Nhiên liệu Việt Nam, công nghệ Nhật Bản
+
+![ten buc hinh](https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.0-9/67249748_1338941769593258_2693635413096005632_n.jpg?_nc_cat=111&_nc_eui2=AeFMv52tc-5hNDlMvh8GEYfcSBbnetPcR-NcwYi3dliRDJQ1H14RB2s_H_fYu_lbBP85ml708vZhCZ50N4gDdFEAAY8CHFr14Xy_3Giwo2nzZA&_nc_oc=AQluB1F-zaYo6S8m_q6GrTvlr_EvRKYVjEgajTgZ3aFM0gnNfysKv-lvoukPGfCO2xo&_nc_ht=scontent.fsgn2-4.fna&oh=0fa426e59ec6311c51355cf4d24624c5&oe=5DB48767 "ten buc hinh")
 
 **Nhà sản xuất:** Công ty Asian Way – Thương hiệu Asinice 
 

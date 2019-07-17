@@ -2,7 +2,7 @@
 layout: post
 title: "Kem dưỡng da B2"
 date: 2019-07-01 12:26:40
-image: 'https://scontent.fsgn2-3.fna.fbcdn.net/v/t1.0-9/66135573_1332215380265897_5926477573335810048_n.jpg?_nc_cat=110&_nc_oc=AQn-yM7KuVN3rN8NlpQCiKnlWJiNJtCgvLnc3uqO7mS7K4isap9tej2_zH9Hnf9l49-3NEWD8VD1oHklahueQRZ-&_nc_ht=scontent.fsgn2-3.fna&oh=8c8d7dbf71a6d692150db6de807c9027&oe=5DBA5A72'
+image: 'https://scontent.fsgn2-2.fna.fbcdn.net/v/t1.0-9/66840630_1338941666259935_6642071566400094208_n.jpg?_nc_cat=100&_nc_eui2=AeHCCGi4oopnng-LxmhY6QIWZsWE6WF2nN2DKoUDEbtHoIVEaV2LbBE4aQHLD245-1qXiNXOSp1LhqzaHbdBsrYeK3RR3pLMxO7HS2hX0OzOFw&_nc_oc=AQnWv61yGx7G0Kp7PA7s6SszqqQimZHhpBwhKiDoGQPK2-WGLAbuJObtCRfrWYS9nSA&_nc_ht=scontent.fsgn2-2.fna&oh=efc1b8932874ee066fc04694d1a6013c&oe=5DEC2075'
 description: Điện thoại giao ngay 090 268 3189
 category: 'AsiNice'
 tags:
@@ -21,6 +21,8 @@ introduction: 220,000₫
 **Nhà sản xuất:** Công ty Asian Way – Thương hiệu Asinice 
 
 **Hạn sử dụng:** Xem trên bao bì.
+
+![ten buc hinh](https://scontent.fsgn2-3.fna.fbcdn.net/v/t1.0-9/66790619_1338941772926591_3356015762090229760_n.jpg?_nc_cat=108&_nc_eui2=AeGCptdDTzsfYG2YIslKPn50C6Tw3dAb8aCvyC6ss4K2hjZhWysQzi4XlaKBXASvCRqtckvr5XrxjkxmT6h0-B1E8OiOVPhqiPFRAy_tssqlLg&_nc_oc=AQl3bzekG9LJBMgM4u3YswrTfSi2AfLY1B5rirQ5_QUQPdOqfthKtdM2fchglsZetJ8&_nc_ht=scontent.fsgn2-3.fna&oh=7010b404b256e1e96bab5a3f24263930&oe=5DEDB3C9 "ten buc hinh")
 
 **Cách sử dụng kem trị mụn Asinice:**
 

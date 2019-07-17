@@ -20,6 +20,8 @@ Tinh chất củ đậu (bengkoang), Water, Cetearyl Alcohol, Triethanolamine, T
 
 Nuôi dưỡng và dữ ẩm cho làn da, lớp gel trong suốt nhẹ nhàng loại sạch tế bào chết mà không gây tổn thương da, giúp chống lại vi khuẩn có hại, làm sạch sâu trong lỗ chân lông, thấm hút chất nhờn lấy đi bụi bẩn, bạn sẽ có làn da sạch sẽ và mịn màng chỉ sau lần sử dụng đầu tiên.
 
+![ten buc hinh](https://scontent.fsgn2-2.fna.fbcdn.net/v/t1.0-9/67295776_1338941836259918_4995270608490070016_n.jpg?_nc_cat=100&_nc_eui2=AeHfwa6zv2ZwsWHCXDu6oU437Lo2hCIaQQ9UJVW9EmyRKFsarWwWQNuRJAT-WOGS0cPfj9y-6U4J3AzsY6HlU3dO6lJqsy_QBAE49Dg-jT2LpQ&_nc_oc=AQlc1dAEn9xaMcxaD32InPW8aD_zwvFdM8ZS0REN5aan1jOZITQYod6QroqGCYdxvOY&_nc_ht=scontent.fsgn2-2.fna&oh=59f469fcc7282dd876192f405c9840c2&oe=5DBA0D68 "ten buc hinh")
+
 **Cách dùng:**
 
 Cho một lượng nhỏ vừa đủ làn ướt da, dùng ngón tay nhẹ nhàng thoa đều kem tẩy tế bào lên da cho đến khi loại bỏ hết tế bào chết và các chất bẩn, sau đó tắm, rửa lại bằng nước
