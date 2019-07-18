@@ -20,11 +20,9 @@ Với sản phẩm Kem trị nám Asinice chị em phụ nữ sẽ nhanh chóng 
 
 **Quy cách đóng gói:** Hộp 30 gr.
 
-**Xuất xứ:** Nhiên liệu Việt Nam, công nghệ Nhật Bản
+**Xuất xứ:** Nhiên liệu Việt Nam, công nghệ Nhật Bản.
 
-![ten buc hinh](https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.0-9/67249748_1338941769593258_2693635413096005632_n.jpg?_nc_cat=111&_nc_eui2=AeFMv52tc-5hNDlMvh8GEYfcSBbnetPcR-NcwYi3dliRDJQ1H14RB2s_H_fYu_lbBP85ml708vZhCZ50N4gDdFEAAY8CHFr14Xy_3Giwo2nzZA&_nc_oc=AQluB1F-zaYo6S8m_q6GrTvlr_EvRKYVjEgajTgZ3aFM0gnNfysKv-lvoukPGfCO2xo&_nc_ht=scontent.fsgn2-4.fna&oh=0fa426e59ec6311c51355cf4d24624c5&oe=5DB48767 "ten buc hinh")
-
-**Nhà sản xuất:** Công ty Asian Way – Thương hiệu Asinice 
+**Nhà sản xuất:** Công ty Asian Way – Thương hiệu Asinice. 
 
 **Hạn sử dụng:** Xem trên bao bì.
 
