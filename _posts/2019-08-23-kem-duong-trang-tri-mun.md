@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kem dưỡng trắng - trị mụn"
-date: 2019-07-02 12:26:40
+date: 2019-08-22 12:26:40
 image: 'https://scontent.fsgn2-2.fna.fbcdn.net/v/t1.0-9/65672555_1328144250673010_3074811029016805376_n.jpg?_nc_cat=100&_nc_oc=AQkD3jv-IdkrXg8v4aGFP7Bvs2mP-voTiDxlWJvUIp-giJA6NKn83-w_FIB0MwmrDqg&_nc_ht=scontent.fsgn2-2.fna&oh=e6e7276327a114acf039bf7ba7f254ba&oe=5DB18D09'
 description: Điện thoại giao ngay 090 268 3189
 category: 'N.G'
@@ -29,11 +29,11 @@ Tăng cường thêm Collagen tinh khiết, Cytokinin, vitamin C, vitamin A, kal
 
 ![ten buc hinh](https://scontent.fsgn2-3.fna.fbcdn.net/v/t1.0-9/66804968_1335213906632711_4772952419665444864_n.jpg?_nc_cat=110&_nc_oc=AQksnRbm4oKUAXB4blF-rbEWeaESFqMiAMUgay9EOB5SQWqIJWqaeM4V03hWUaJIonk&_nc_ht=scontent.fsgn2-3.fna&oh=402364ca0ad829c8b0a05fce49daf760&oe=5DA2A3C1 "ten buc hinh")
 
-**Cách sử dụng kem trị mụn Asinice:**
+**Cách sử dụng kem:**
 
 Kem được dùng cho cả ban ngày và ban đêm - Thích hợp với mọi loại da - Hàm Lượng Chống Nắng SPF 20
 
-Làm sạch mặt bằng sữa rửa mặt, kế đến dùng NƯỚC HOA HỒNG (Toner ) để loại bỏ hoàn toàn chất bụi bẩn ẩn sâu bên trong lỗ chân lông. Sau đó, lấy một lượng vừa đủ chấm lên vùng trán, cằm, mũi, hai bên má hoặc chấm vào vùng có mụn trên da mặt, xoa và massage theo chiều kim đồng hồ, vỗ nhẹ cho thấm sâu. Xoa xoa và massage lại lần nữa (massage càng nhiều hiệu quả sẽ càng tốt) . Chờ và cảm nhận làn da của bạn.
+Làm sạch mặt bằng sữa rửa mặt, kế đến dùng NƯỚC HOA HỒNG (Toner) để loại bỏ hoàn toàn chất bụi bẩn ẩn sâu bên trong lỗ chân lông. Sau đó, lấy một lượng vừa đủ chấm lên vùng trán, cằm, mũi, hai bên má hoặc chấm vào vùng có mụn trên da mặt, xoa và massage theo chiều kim đồng hồ, vỗ nhẹ cho thấm sâu. Xoa xoa và massage lại lần nữa (massage càng nhiều hiệu quả sẽ càng tốt) . Chờ và cảm nhận làn da của bạn.
 
 Khuyên dùng: 2-3 lần/ngày, dùng liên tục từ 10 ngày đến 4 tháng để cho làn da đẹp như ý muốn.
 
