@@ -2,7 +2,7 @@
 layout: post
 title: "Kem dưỡng da ban đêm"
 date: 2019-07-01 13:26:40
-image: 'https://asinice.vn/i/2019/06/1-300x300.jpg'
+image: 'https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-9/69829823_1377913465696088_5659603114609606656_n.jpg?_nc_cat=111&_nc_oc=AQl85sxQhSHX6PdV1QOxKOkGF3FUqQPni5ktFjAaAbKRvFxHlAYjYsj-5lMRo3AMOKG4cTO_wlw1rb19K2csPUrK&_nc_ht=scontent.fsgn2-1.fna&oh=ff5c829f1959a522412bbd2ae5ed1fdb&oe=5E00E8F6'
 description: Điện thoại giao ngay 090 268 3189
 category: 'AsiNice'
 tags:
