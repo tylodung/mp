@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kem tẩy tế bào chết"
-date: 2019-11-02 12:26:40
+date: 2019-11-01 12:26:40
 image: 'https://live.staticflickr.com/65535/48999744302_d7d64c8a00_b.jpg'
 description: Điện thoại giao ngay 090 268 3189
 category: 'AsiNice'
