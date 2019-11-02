@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Sữa rửa mặt củ đậu - trà xanh"
-date: 2019-07-14 12:26:40
-image: 'https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.0-9/66320546_1334576216696480_6384059583710625792_n.jpg?_nc_cat=109&_nc_oc=AQmrJwDxTyp5zb6JBU7JkkrohjsI-ezG8qw9OmPvVehxRg34KWnbK_wu4sLFk1t7R2M&_nc_ht=scontent.fsgn2-4.fna&oh=749ef6d7d736544995ce0389fefdce6f&oe=5DAA0DEA'
+date: 2019-11-01 12:26:40
+image: 'https://live.staticflickr.com/65535/48999798112_853627969e_b.jpg'
 description: Điện thoại giao ngay 090 268 3189
 category: 'AsiNice'
 tags:
@@ -25,5 +25,7 @@ introduction: 70,000₫
 **Hạn sử dụng:** Xem trên bao bì.
 
 **Cách sử dụng:**
+
+![ten buc hinh](https://live.staticflickr.com/65535/48999589886_48690b240c_b.jpg "ten buc hinh")
 
 Rửa tay sạch rồi cho 1-2 giọt sữa rửa mặt tinh chất củ đậu và trà xanh AsiNice vào lòng bàn tay, thoa nhẹ lên mặt massage rồi rửa lại sạch bằng nước. Dùng 1-2 lần trong ngày.
