@@ -2,7 +2,7 @@
 layout: post
 title: "Toner cân bằng dưỡng trắng"
 date: 2019-07-02 12:26:40
-image: 'https://scontent.fsgn2-2.fna.fbcdn.net/v/t1.0-9/65650973_1328705630616872_6831684717432012800_n.jpg?_nc_cat=102&_nc_eui2=AeGh3rDLEOc7R51Q-GUXUbo-KSd94iHw0z_4mQG00EDZH7HDytScKX9Ynu1qVibgHnY5JNP-I7dOOcgZnw3yAIwxU-EJYiB_SLdDLZeE6wXHqw&_nc_oc=AQmDcOHGf71_FsYdggwygPA2ihgpMdfidyOkYQ9sdQieqzQNFmLLG8Xzrf507TY1u8s&_nc_ht=scontent.fsgn2-2.fna&oh=80a8402ff129305fff94b49e35c25485&oe=5DAE3EE7'
+image: 'https://live.staticflickr.com/65535/49004753647_86ab95b780_b.jpg'
 description: Điện thoại giao ngay 090 268 3189
 category: 'N.G'
 tags:
