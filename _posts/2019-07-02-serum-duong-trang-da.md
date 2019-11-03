@@ -2,7 +2,7 @@
 layout: post
 title: "Serum dưỡng trắng da"
 date: 2019-07-02 12:26:40
-image: 'https://scontent.fsgn2-2.fna.fbcdn.net/v/t1.0-9/66056247_1328143557339746_3335518507411439616_n.jpg?_nc_cat=100&_nc_oc=AQmsh8HRL-3QC5hUntwsRDtELfUcRWz0NUbV3sYgxZASxuZL4p2HpAcVIPWTGukYuOE&_nc_ht=scontent.fsgn2-2.fna&oh=b48a4b3626d37c40ae376fec8014adca&oe=5D7C42A0'
+image: 'https://live.staticflickr.com/65535/49003984678_c6db5984de_b.jpg'
 description: Điện thoại giao ngay 090 268 3189
 category: 'N.G'
 tags:
