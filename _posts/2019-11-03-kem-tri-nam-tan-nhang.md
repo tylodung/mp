@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Kem trị nám - tàn nhang"
-date: 2019-07-13 12:26:40
-image: 'https://scontent.fsgn2-3.fna.fbcdn.net/v/t1.0-9/66596485_1338941672926601_5176819266934013952_n.jpg?_nc_cat=110&_nc_eui2=AeHkSmiYa6ywZXt7g9VBHSvwkY_Or_B4udUWp4F2MAjSwUR9e7SCV6PQs9h6vEXJks0SaYPt-6SEi0OXscB210SeNs2gGpNGlWY-ByounDQMpQ&_nc_oc=AQloXUaugVJdhnrOQTNWa5RWhMUWXngkeZ5DNHYF2Vmp9aAvSm7H036vyVG415HFu9g&_nc_ht=scontent.fsgn2-3.fna&oh=4c4fe968b393fb153b8cce7ba406d967&oe=5DB5BEA8'
+date: 2019-11-02 12:26:40
+image: 'https://live.staticflickr.com/65535/49004706092_1a9dd500e9_b.jpg'
 description: Điện thoại giao ngay 090 268 3189
 category: 'AsiNice'
 tags:

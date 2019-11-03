@@ -2,7 +2,7 @@
 layout: post
 title: "Kem dưỡng trắng - trị mụn"
 date: 2019-08-22 12:26:40
-image: 'https://scontent.fsgn2-2.fna.fbcdn.net/v/t1.0-9/65672555_1328144250673010_3074811029016805376_n.jpg?_nc_cat=100&_nc_oc=AQkD3jv-IdkrXg8v4aGFP7Bvs2mP-voTiDxlWJvUIp-giJA6NKn83-w_FIB0MwmrDqg&_nc_ht=scontent.fsgn2-2.fna&oh=e6e7276327a114acf039bf7ba7f254ba&oe=5DB18D09'
+image: 'https://live.staticflickr.com/65535/49004475636_55c1b30a2c_b.jpg'
 description: Điện thoại giao ngay 090 268 3189
 category: 'N.G'
 tags:

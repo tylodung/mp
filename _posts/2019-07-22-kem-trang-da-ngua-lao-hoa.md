@@ -2,7 +2,7 @@
 layout: post
 title: "Kem trắng da - ngừa lão hoá"
 date: 2019-07-15 10:26:40
-image: 'https://scontent.fsgn10-1.fna.fbcdn.net/v/t1.0-9/67304850_1342666515887450_2869073505603813376_n.jpg?_nc_cat=110&_nc_oc=AQkV-F9NLGawZ09mP20q7ZMXOjXIdUVwrMtgPG8I1LXVCWjcoQA8S20FhitXCilu_NU&_nc_ht=scontent.fsgn10-1.fna&oh=a5c000ff1b82f381662eb287bbeea63d&oe=5DAD48A1'
+image: 'https://live.staticflickr.com/65535/49004488261_c89663bb8d_b.jpg'
 description: Điện thoại giao ngay 090 268 3189
 category: 'AsiNice'
 tags:
@@ -18,7 +18,7 @@ Kem dưỡng trắng da ngừa lão hoá AsiNice giúp dưỡng trắng da, ngă
 
 Tinh chất củ đậu, Bột ngọc trai, tinh chất Colagen, tinh chất tế bào gốc, Tảo Spirulila, Chiết xuất dầu oliu, vitamin E, Vitamin C tinh khiết, vitamin A, tinh chất Omega 3, tinh chất nha đam, chất chống nắng
 
-![ten buc hinh](https://scontent.fsgn10-1.fna.fbcdn.net/v/t1.0-9/67074250_1342666522554116_7797902924234883072_n.jpg?_nc_cat=100&_nc_oc=AQmt0rUzHW_huY37tp69JcfurqBUHilcMDYwFnF37yPEqSvuOljHJl1QSnPuSSoX-8E&_nc_ht=scontent.fsgn10-1.fna&oh=1245764efaf4d5f0dccb098d4fb92d9d&oe=5DA1A111 "ten buc hinh")
+![ten buc hinh](https://live.staticflickr.com/65535/49004696257_40c4d752d3_b.jpg "ten buc hinh")
 
 **Công dụng kem giảm nhăn ngăn ngừa, chống lão hoá da AsiNice:**
 
