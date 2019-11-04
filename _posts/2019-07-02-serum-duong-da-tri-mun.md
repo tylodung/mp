@@ -2,7 +2,7 @@
 layout: post
 title: "Serum dưỡng da -trị mụn"
 date: 2019-07-02 12:26:40
-image: 'https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-9/62449460_1328144544006314_3267025100574031872_n.jpg?_nc_cat=107&_nc_oc=AQmuBQnTF1nisO9kcjEiTw31zguJFbzlcNF1nLtRdAtbb1S6ZdKQegi5GhvS-_zzt44&_nc_ht=scontent.fsgn2-1.fna&oh=b218377aec89279e62968c455ff75f6f&oe=5DB7B8FE'
+image: 'https://live.staticflickr.com/65535/49011041201_f48808f832_b.jpg'
 description: Điện thoại giao ngay 090 268 3189
 category: 'N.G'
 tags:

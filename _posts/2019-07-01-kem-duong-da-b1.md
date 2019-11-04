@@ -2,7 +2,7 @@
 layout: post
 title: "Kem dưỡng da B1"
 date: 2019-07-01 12:26:40
-image: 'https://scontent.fsgn2-3.fna.fbcdn.net/v/t1.0-9/66822779_1338941679593267_2628306233219612672_n.jpg?_nc_cat=108&_nc_eui2=AeEjaXmFiBkbSelXVWRrVVNmVA7DdYMtxSHyqb_vl_xMBxFZihYe5_cbP1Acx2qCxZtdTefbCp4JRjqMsnQyQtqS2keWrZntcenV0AAIdchVpA&_nc_oc=AQkR-WlygJsfqiuywtQ__Aggq7E_rbFLLPzr1c6BoaDzToE2Hv33lWiJNE5NFxMXzOE&_nc_ht=scontent.fsgn2-3.fna&oh=4ddd891511a09cd593ae4df503fda3bb&oe=5DAA7B6E'
+image: 'https://live.staticflickr.com/65535/49011257522_557ff1f9e2_b.jpg'
 description: Điện thoại giao ngay 090 268 3189
 category: 'AsiNice'
 tags:
