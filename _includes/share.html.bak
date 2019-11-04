@@ -1,0 +1,32 @@
+<section class="share">
+    <h3>Share</h3>
+    <a aria-label="Compartilhar no Twitter" href="https://twitter.com/intent/tweet?text=&quot;{{ page.twitter_text }}&quot;%20{{ site.url }}{{ page.url }}%20via%20&#64;{{ site.twitter_username }}&hashtags={% for tag in page.tags %}{{tag}},{% endfor %}"
+    onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;" title="Share on Twitter">
+        <svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg>
+    </a>
+    <a aria-label="Compartilhar no Facebook"href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}"
+    onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;" title="Share on Facebook">
+        <svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg>
+    </a>
+    <a aria-label="Share on Google Plus" href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}"
+    onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;" title="Share on Google+">
+        <svg class="icon icon-google-plus"><use xlink:href="#icon-google-plus"></use></svg>
+    </a>
+	<marquee id="marq" scrollamount="3" direction="left" loop="100" scrolldelay="0" onmouseover="this.stop()" onmouseout="this.start()">
+
+<a href="https://myphamcacloai.net/kem-mun/"><img src="https://scontent.fsgn10-1.fna.fbcdn.net/v/t1.0-9/67076467_1342666582554110_5910596493672185856_n.jpg?_nc_cat=111&_nc_oc=AQn4EJZbJzwSUgL1scaGdKtF-4LVaFxIy74O0PLa7JbSocuSCosvvphTQDLgZ0BF-98&_nc_ht=scontent.fsgn10-1.fna&oh=48f0b2632fa498731756e41b1a67f642&oe=5DB6279E" title="Kem trị mụn - lành sẹo" width="300" height="300"/> </a>
+
+<a href="https://myphamcacloai.net/kem-tay-te-bao-chet/"><img src="https://scontent.fsgn10-1.fna.fbcdn.net/v/t1.0-9/67065457_1342666529220782_7121615574215426048_n.jpg?_nc_cat=110&_nc_oc=AQkPwW2x70bdudfJNZiTbUgCcTsNqECHFncL6vUXZbBgQ6O6YUmtMa7fIKMH3I96n4M&_nc_ht=scontent.fsgn10-1.fna&oh=436d8b80cb57f6ea29f0ef808c31e92e&oe=5DB4DF60" title="Kem tẩy tế bào chết" width="300" height="300"/> </a>
+
+<a href="https://myphamcacloai.net/kem-trang-da-ngua-lao-hoa/"><img src="https://scontent.fsgn10-1.fna.fbcdn.net/v/t1.0-9/67304850_1342666515887450_2869073505603813376_n.jpg?_nc_cat=110&_nc_oc=AQkV-F9NLGawZ09mP20q7ZMXOjXIdUVwrMtgPG8I1LXVCWjcoQA8S20FhitXCilu_NU&_nc_ht=scontent.fsgn10-1.fna&oh=a5c000ff1b82f381662eb287bbeea63d&oe=5DAD48A1" title="Kem trắng da - ngừa lão hoá" width="300" height="300"/> </a>
+
+<a href="https://myphamcacloai.net/kem-duong-da-chong-nang/"><img src="https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-9/66672493_1337474513073317_266655097566527488_n.jpg?_nc_cat=107&_nc_oc=AQndMQsrOFZBQPPyOvKS9gQARDFp0UuhpwPS9h7h60v2XaeOSKx9HqQWj9m1b9AKeFg&_nc_ht=scontent.fsgn2-1.fna&oh=729c3d205a80475b58c6eb197ecd207c&oe=5DC1EEF8" title="Kem dưỡng da - chống nắng" width="300" height="300"/> </a>
+
+<a href="https://myphamcacloai.net/sua-rua-mat/"><img src="https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.0-9/66320546_1334576216696480_6384059583710625792_n.jpg?_nc_cat=109&_nc_oc=AQmrJwDxTyp5zb6JBU7JkkrohjsI-ezG8qw9OmPvVehxRg34KWnbK_wu4sLFk1t7R2M&_nc_ht=scontent.fsgn2-4.fna&oh=749ef6d7d736544995ce0389fefdce6f&oe=5DAA0DEA" title="Sữa rửa mặt củ đậu - trà xanh" width="300" height="300"/> </a>
+
+<a href="https://myphamcacloai.net/sua-tam/"><img src="https://scontent.fsgn2-2.fna.fbcdn.net/v/t1.0-9/66647378_1335935559893879_2208886179795828736_n.jpg?_nc_cat=103&_nc_oc=AQmr4WIkB7UKDwlTN65io40Jb-T5XhsJtc-oaxGTjx3ge51xSNeuuf73vOMmwZYTNoU&_nc_ht=scontent.fsgn2-2.fna&oh=368de1bc6802389d5ac6bb33f70569ef&oe=5DA62131" title="Sữa Tắm" width="300" height="300"/> </a>
+
+
+
+</marquee>
+</section>
