@@ -2,7 +2,7 @@
 layout: post
 title: "Serum chống lão hoá nano vàng"
 date: 2019-07-02 12:26:40
-image: 'https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-9/66048243_1328144480672987_2607204676642275328_n.jpg?_nc_cat=107&_nc_oc=AQm96O7O_1uk_runtWs3DdJ1RCHLIgWA_EA5R6M9HN-tzBKA4ed1eyG8tXnbDmTaunQ&_nc_ht=scontent.fsgn2-1.fna&oh=92d193f3b76bfad2d0568e3b829e60db&oe=5D7B6F38'
+image: 'https://live.staticflickr.com/65535/49010382673_183d4d4044_b.jpg'
 description: Điện thoại giao ngay 090 268 3189
 category: 'N.G'
 tags:

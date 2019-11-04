@@ -2,7 +2,7 @@
 layout: post
 title: "Serum chống lão hoá hồng da"
 date: 2019-07-02 12:26:40
-image: 'https://scontent.fsgn2-2.fna.fbcdn.net/v/t1.0-9/65651486_1328144354006333_2087154188013273088_n.jpg?_nc_cat=102&_nc_oc=AQlS0N6TYxMiF0vBDGBw3GfrqVRL_RN2zGuVcoytHxMdC8Pb2cvkhLaM9txGe9fyyy8&_nc_ht=scontent.fsgn2-2.fna&oh=751d2a39c50e569c161a039da25e320a&oe=5DB31DE4'
+image: 'https://live.staticflickr.com/65535/49011134297_31a04fc1bd_b.jpg'
 description: Điện thoại giao ngay 090 268 3189
 category: 'N.G'
 tags:

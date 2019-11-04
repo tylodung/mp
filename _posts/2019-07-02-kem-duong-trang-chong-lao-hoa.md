@@ -2,7 +2,7 @@
 layout: post
 title: "Kem dưỡng trắng - chống lão hoá"
 date: 2019-07-02 12:26:40
-image: 'https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-9/67160424_1336662403154528_7696466572776308736_n.jpg?_nc_cat=111&_nc_oc=AQnUibRmeDd1ytEGfnVVaKWr20HLZNb3WNT17CCDvVuLgfFWIWtpUQXjuEGvtguTy0Q&_nc_ht=scontent.fsgn2-1.fna&oh=2bbe8e2d4775ef9936014879a1bd1de5&oe=5DAD8D8B'
+image: 'https://live.staticflickr.com/65535/49011141097_7e339e2c25_b.jpg'
 description: Điện thoại giao ngay 090 268 3189
 category: 'N.G'
 tags:
