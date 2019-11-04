@@ -2,7 +2,7 @@
 layout: post
 title: "Serum dưỡng da chống nám"
 date: 2019-07-02 12:26:40
-image: 'https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.0-9/64810692_1328144337339668_4476745520445915136_n.jpg?_nc_cat=111&_nc_oc=AQndiiKPtqyqyCuxcqdXg8m5Nk2Sq7zs51DPS-ZS6dACDlXltQ26unhSNCTw3H6UCig&_nc_ht=scontent.fsgn2-4.fna&oh=4d1ba8fc127530c1fdf34ce27935b676&oe=5D7E2B7D'
+image: 'https://live.staticflickr.com/65535/49011004806_37f00b35d4_b.jpg'
 description: Điện thoại giao ngay 090 268 3189
 category: 'N.G'
 tags:

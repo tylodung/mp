@@ -2,7 +2,7 @@
 layout: post
 title: "Kem dưỡng trắng - trị nám"
 date: 2019-07-02 12:26:40
-image: 'https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-9/64502702_1328144177339684_1442620763868758016_n.jpg?_nc_cat=107&_nc_oc=AQlcpJ8BxkTb8R1xn6ejY_PkrwlXFqxLYgY8o3iXlZnhTOx9KF6v9G6x2RGCEVcO3kQ&_nc_ht=scontent.fsgn2-1.fna&oh=0bd6508d6a9958b6d3544c4677d18e64&oe=5DB50253'
+image: 'https://live.staticflickr.com/65535/49011218787_1cf12c940f_b.jpg'
 description: Điện thoại giao ngay 090 268 3189
 category: 'N.G'
 tags:

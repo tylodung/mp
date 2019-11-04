@@ -2,7 +2,7 @@
 layout: post
 title: "Kem giảm nhăn - ngừa lão háo"
 date: 2019-07-01 12:26:40
-image: 'https://scontent.fsgn2-2.fna.fbcdn.net/v/t1.0-9/65613159_1328025000684935_780736354748203008_n.jpg?_nc_cat=100&_nc_oc=AQlvqQ-GxkV3vdjs9h3CT26W7voEXqqoQGFGPgMS43OTJt8T3tMVeDzUXcaRp8NZWvA&_nc_ht=scontent.fsgn2-2.fna&oh=e959c3cb7118f7422d6677f7e8c7eb64&oe=5DB87E94'
+image: 'https://live.staticflickr.com/65535/49010459488_3ef386de9f_b.jpg'
 description: Điện thoại giao ngay 090 268 3189
 category: 'AsiNice'
 tags:
@@ -21,6 +21,8 @@ Thành phần chính của kem giảm nhăn ngăn ngừa lão hoá AsiNice là t
 Tinh chất củ đậu, Bột ngọc trai, tinh chất Colagen, tinh chất tế bào gốc, Tảo Spirulila, Chiết xuất dầu oliu, vitamin E, Vitamin C tinh khiết, vitamin A, tinh chất Omega 3, tinh chất nha đam, chất chống nắng
 
 **Công dụng kem giảm nhăn ngăn ngừa, chống lão hoá da AsiNice:**
+
+![ten buc hinh](https://live.staticflickr.com/65535/49010459433_84c51ca9e5_b.jpg "ten buc hinh")
 
 Dưỡng trắng da, tạo sự đàn hồi cho da, hồi sinh sức sống và giảm độ nhờn cho da, giữ cho làn da trắng hồng mềm mại, sản phẩm chống lại sự sớm lão hóa của làn da, phục hồi tế bào có lợi cho da sau một đêm, kem dạng sữa nên việc hấp thụ qua da một cách dễ dàng không gây khó chịu.
 
