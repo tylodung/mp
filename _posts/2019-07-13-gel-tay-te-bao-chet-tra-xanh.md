@@ -2,7 +2,7 @@
 layout: post
 title: "Gel tẩy tế bào chết - trà xanh"
 date: 2019-07-13 12:26:40
-image: 'https://live.staticflickr.com/65535/49004512161_0527209c43_b.jpg'
+image: 'https://live.staticflickr.com/65535/49010885751_cd764eb777_b.jpg'
 description: Điện thoại giao ngay 090 268 3189
 category: 'N.G'
 tags:
