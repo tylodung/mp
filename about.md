@@ -5,7 +5,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img itemprop="image" class="img-rounded" src="https://www.flickr.com/photos/184619399@N02/49016315586/in/dateposted-public/" alt="Your Name">
+<img itemprop="image" class="img-rounded" src="https://live.staticflickr.com/65535/49016315586_fac44071f6_n.jpg" alt="Your Name">
 
 
 
@@ -19,7 +19,7 @@ Trước tiên, bạn hãy nên tham khảo danh mục sản phẩm làm trắng
 
 Xin liên hệ đường dây nóng **090-268-3189** Đoàn Bình giao hàng tận nơi trong ngày.
 
-![ten buc hinh](https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-9/66456859_1336193553201413_5640847550773723136_n.jpg?_nc_cat=105&_nc_oc=AQmzqffDTdbvtVGVOyJmeJdVCpaaEbhUANVGa-Nr8u1tIeNn0WyHYS93le55_gXrXG0&_nc_ht=scontent.fsgn2-1.fna&oh=d9ff904645515fffa6f60d4c4f164002&oe=5DC01EF0 "ten buc hinh")
+![ten buc hinh](https://live.staticflickr.com/65535/49015858518_b0195f563b_b.jpg "ten buc hinh")
 
 ## Mọi vấn đề phát sinh khác
 
@@ -29,5 +29,5 @@ Trong trường hợp mà gọi mãi vẫn không được, bạn hãy truy cậ
 
 Thân chào! Đội ngũ phát triển và hỗ trợ Khách Hàng **Siêu Thị Mỹ Phẩm** hân hạnh đồng hành cùng bạn.
 
-![ten buc hinh](https://scontent.fsgn2-2.fna.fbcdn.net/v/t1.0-9/66382339_1336193579868077_190184291487973376_n.jpg?_nc_cat=102&_nc_oc=AQl4mxWZq6OC1DSkvhDI85AOkdk5FsaSqp5XlS56qQWfLOPtE-5A3eJnGYBJj5khIr0&_nc_ht=scontent.fsgn2-2.fna&oh=2f040def73db91eedb3ce745660ee1c3&oe=5DB860F2 "ten buc hinh")
+![ten buc hinh](https://live.staticflickr.com/65535/49016377536_a8b4fa476f_b.jpg "ten buc hinh")
 
