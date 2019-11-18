@@ -2,7 +2,7 @@
 layout: post
 title: "Kem dưỡng da - chống nắng"
 date: 2019-07-15 12:26:40
-image: 'https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-9/66672493_1337474513073317_266655097566527488_n.jpg?_nc_cat=107&_nc_oc=AQndMQsrOFZBQPPyOvKS9gQARDFp0UuhpwPS9h7h60v2XaeOSKx9HqQWj9m1b9AKeFg&_nc_ht=scontent.fsgn2-1.fna&oh=729c3d205a80475b58c6eb197ecd207c&oe=5DC1EEF8'
+image: 'https://live.staticflickr.com/65535/49082545883_7b951479d1_b.jpg'
 description: Điện thoại giao ngay 090 268 3189
 category: 'AsiNice'
 tags:
@@ -16,7 +16,7 @@ introduction: 230,000₫
 
 **Quy cách đóng gói:** Hộp 30 gr.
 
-![ten buc hinh](https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-9/67278306_1337474353073333_2769943216575741952_n.jpg?_nc_cat=104&_nc_oc=AQlutFqx0ctKV0-IBBKRpO2oAFYG2tXybVgIBKfpNpHXBD48UURskbYWZOSiMi1Zm20&_nc_ht=scontent.fsgn2-1.fna&oh=a73c1683f2459f28e4977d3134c3289b&oe=5DACBEB1 "ten buc hinh")
+![ten buc hinh](https://live.staticflickr.com/65535/49083069211_1e414c88e8_b.jpg "ten buc hinh")
 
 **Xuất xứ:** Nhiên liệu Việt Nam, công nghệ Nhật Bản
 
@@ -24,7 +24,7 @@ introduction: 230,000₫
 
 **Hạn sử dụng:** Xem trên bao bì.
 
-![ten buc hinh](https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.0-9/67211579_1338169409670494_6779362725752471552_n.jpg?_nc_cat=109&_nc_oc=AQnsF54SZBLuK83OiVoWJg5Om0KEqn8I2OJpwvEuzl0zLhfWBAFJ_fDY_FFxhIbXS4A&_nc_ht=scontent.fsgn2-4.fna&oh=47bf024399b69a1931b91f440b1bfd2c&oe=5DA668CF "ten buc hinh")
+![ten buc hinh](https://live.staticflickr.com/65535/49082551823_a593a3d17d_b.jpg "ten buc hinh")
 
 **Cách sử dụng:**
 
