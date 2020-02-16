@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Kem dưỡng da B2"
-date: 2019-07-01 12:26:40
-image: 'https://scontent.fsgn2-2.fna.fbcdn.net/v/t1.0-9/66840630_1338941666259935_6642071566400094208_n.jpg?_nc_cat=100&_nc_eui2=AeHCCGi4oopnng-LxmhY6QIWZsWE6WF2nN2DKoUDEbtHoIVEaV2LbBE4aQHLD245-1qXiNXOSp1LhqzaHbdBsrYeK3RR3pLMxO7HS2hX0OzOFw&_nc_oc=AQnWv61yGx7G0Kp7PA7s6SszqqQimZHhpBwhKiDoGQPK2-WGLAbuJObtCRfrWYS9nSA&_nc_ht=scontent.fsgn2-2.fna&oh=efc1b8932874ee066fc04694d1a6013c&oe=5DEC2075'
+date: 2020-02-15 12:26:40
+image: 'https://live.staticflickr.com/65535/49540539328_c376645e0e_b.jpg'
 description: Điện thoại giao ngay 090 268 3189
 category: 'AsiNice'
 tags:
@@ -22,7 +22,7 @@ introduction: 220,000₫
 
 **Hạn sử dụng:** Xem trên bao bì.
 
-![ten buc hinh](https://scontent.fsgn2-3.fna.fbcdn.net/v/t1.0-9/66790619_1338941772926591_3356015762090229760_n.jpg?_nc_cat=108&_nc_eui2=AeGCptdDTzsfYG2YIslKPn50C6Tw3dAb8aCvyC6ss4K2hjZhWysQzi4XlaKBXASvCRqtckvr5XrxjkxmT6h0-B1E8OiOVPhqiPFRAy_tssqlLg&_nc_oc=AQl3bzekG9LJBMgM4u3YswrTfSi2AfLY1B5rirQ5_QUQPdOqfthKtdM2fchglsZetJ8&_nc_ht=scontent.fsgn2-3.fna&oh=7010b404b256e1e96bab5a3f24263930&oe=5DEDB3C9 "ten buc hinh")
+![ten buc hinh](https://live.staticflickr.com/65535/49540539313_ac195c0a5f_b.jpg "ten buc hinh")
 
 **Cách sử dụng kem trị mụn Asinice:**
 
@@ -31,6 +31,9 @@ Kem dưỡng da chống nắng tinh chất mủ trôm AsiNice B1 là sản phẩ
 Sử dụng kem dưỡng da chống nắng tinh chất mủ trôm B1 trước trong 3-4 ngày đầu bằng cách:
 
 Rửa mặt sạch rồi lau khô sau đó thoa lên da mặt một lớp mỏng vừa đủ massage nhẹ nhàng 3-5 phút trên da mặt cho kem phủ khắp vùng da cần làm đẹp để cho kem hấp thụ, bốn tiếng sau rửa mặt lại bằng nước sạch, lau khô và tiếp tục thoa thoa tiếp kem B1 như lần trước ngày và đêm 3-4 lần như thế cho đến ngày thứ 4 mới bắt đầu sử dụng kem B2 vào ban đêm.
+
+![ten buc hinh](https://live.staticflickr.com/65535/49541260997_a7b7d975da_b.jpg "ten buc hinh")
+
 
 Buổi chiều tối thoa một lớp mỏng kem B2 và trước khi đi ngủ thoa lên tiếp một lớp dày hơn. Sáng rửa mặt lại bằng nước sạch.
 
