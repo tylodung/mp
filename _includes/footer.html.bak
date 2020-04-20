@@ -1,5 +1,5 @@
 <footer>
-<p><img src="https://www.uplevo.com/img/designbox/thiet-ke-banner-anh-quang-cao.png"></p>
+<p><img src="https://www.daiichiramen.vn/wp-content/uploads/2019/12/hokkaido-2579186_1280-750x400.jpg"></p>
     <p>
       {% if site.github_username %}
       <a itemprop="github" href="https://github.com/{{ site.github_username }}" title="Github">
