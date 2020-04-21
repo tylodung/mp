@@ -1,5 +1,5 @@
 <footer>
-<p><img src="https://www.daiichiramen.vn/wp-content/uploads/2019/12/hokkaido-2579186_1280-750x400.jpg"></p>
+<p><img src="https://live.staticflickr.com/65535/49796100893_c1275ebd2f_b.jpg"></p>
     <p>
       {% if site.github_username %}
       <a itemprop="github" href="https://github.com/{{ site.github_username }}" title="Github">
