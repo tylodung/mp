@@ -1,6 +1,6 @@
 <!-- Pagination links -->
 <div class="pagination">
-<center><img src="https://live.staticflickr.com/65535/49805202576_a0897ec801_b.jpg" style="width:100%;"></center>
+
     {% if paginator.previous_page %}
         <a href="{{ paginator.previous_page_path }}" class="previous" onclick="ga('send', 'event', 'pagination', 'click', 'page previous')">
             <svg><use xlink:href="#icon-arrow-right"></use></svg>
@@ -17,4 +17,5 @@
     {% endif %}
 	
 </div>
+<div><img src="https://live.staticflickr.com/65535/49805202576_a0897ec801_b.jpg" style="width:100%;"></div>
 
