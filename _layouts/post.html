@@ -7,7 +7,7 @@
         {% include header.html %}
         <section class="post">
 
-<img src="https://live.staticflickr.com/65535/49805202576_a0897ec801_b.jpg" style="width:100%;">
+
             <article role="article" id="post" class="post-content" itemprop="articleBody">
                 <p itemprop="post-info" class="post-info">
                     {% if page.date %}
@@ -15,6 +15,7 @@
                         <svg id="date" class="icon-calendar"><use xlink:href="#icon-calendar"></use></svg>
                         <time itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}" class="date">
                             {% include date.html date=page.date %}
+							<img src="https://live.staticflickr.com/65535/49805202576_a0897ec801_b.jpg" style="width:100%;">
                         </time>
                     {% endif %}
                     <svg id="clock" class="icon-clock"><use xlink:href="#icon-clock"></use></svg>
