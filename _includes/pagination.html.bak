@@ -10,6 +10,7 @@
         <a href="{{ paginator.next_page_path }}" class="next" onclick="ga('send', 'event', 'pagination', 'click', 'page next')">
             <svg><use xlink:href="#icon-arrow-right"></use></svg>
         </a>
+		<p><img src="https://live.staticflickr.com/65535/49796100893_c1275ebd2f_b.jpg" style="width:100%;"></p>
     {% endif %}
 </div>
 
