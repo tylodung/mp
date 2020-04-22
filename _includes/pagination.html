@@ -5,6 +5,7 @@
             <svg><use xlink:href="#icon-arrow-right"></use></svg>
         </a>
     {% endif %}
+	<center><img src="https://live.staticflickr.com/65535/49805202576_a0897ec801_b.jpg" style="width:100%;"></center>
     <span class="page_number ">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
     {% if paginator.next_page %}
         <a href="{{ paginator.next_page_path }}" class="next" onclick="ga('send', 'event', 'pagination', 'click', 'page next')">
@@ -16,4 +17,3 @@
 	
 </div>
 
-<center><img src="https://live.staticflickr.com/65535/49805202576_a0897ec801_b.jpg" style="width:100%;"></center>
