@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="post">
-
+<p><img src="https://live.staticflickr.com/65535/49796100893_c1275ebd2f_b.jpg" style="width:100%;"></p>
   <article class="post-content">
     {{ content }}
   </article>
