@@ -14,7 +14,7 @@ introduction: 70,000₫
 
 **Thành phần:** bengkoang (tinh chất củ đậu), Water, sodium laureth sulfate, propylene glycol, camellia sinensis leaf extract (Tinh chất trà xanh), sodium chloride, glycerin, pearl powder, sulurized jojoba oil, cocamidopropyl betaine, decyl glucoside, panthenol , tocopherol , niacinamide , Sterculia Urens Gum (tinh chất mủ trôm), parfum, triclosan.
 
-![ten buc hinh](https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-9/67119815_1337474379739997_2093906666876567552_n.jpg?_nc_cat=105&_nc_oc=AQnz_IPpDJEeRr-IBOngLhNrxiNX-uYxYfB1qs2yX7ZxCGEORC2WEI-GMQx_71FCF_M&_nc_ht=scontent.fsgn2-1.fna&oh=5a3e94ffec4d9393959a8b70c137b337&oe=5DBED9DD "ten buc hinh")
+![ten buc hinh](https://live.staticflickr.com/65535/50572904942_43f57d48f4_b.jpg "ten buc hinh")
 
 **Quy cách đóng gói:** 80 ml.
 

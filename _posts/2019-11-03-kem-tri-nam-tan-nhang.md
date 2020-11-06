@@ -14,7 +14,7 @@ introduction: 260,000₫
 
 Kem trị nám Asinice giúp trị nám và “đánh bay” các vết tàn nhang từ bên ngoài mà không làm tổn thương da. Kem trị nám Asinice được chiết xuất 100% từ tinh chất củ đậu (củ sắn) và các thành phần tự nhiên khác, giúp thấm sâu vào lớp hạ bì của da, đánh bay chân nám – tàn nhang, làm da trắng hồng mịn màng; ngoài ra còn bảo vệ da khỏi tia UV và các tác động có hại từ môi trường.
 
-![ten buc hinh](https://scontent.fsgn2-2.fna.fbcdn.net/v/t1.0-9/64703600_1338169406337161_8319446429395320832_n.jpg?_nc_cat=100&_nc_oc=AQlHwy6F5_zbmC-v-MzKnRYjxutMV5axhIIGi9CjhO8Hz7OcpoakMPv7qjibmK8ZjwA&_nc_ht=scontent.fsgn2-2.fna&oh=5884f6e9ec3ac341eab46f1dc3f4d76f&oe=5DEBB4DC "ten buc hinh")
+![ten buc hinh](https://live.staticflickr.com/65535/50572765811_bc8086c569_b.jpg "ten buc hinh")
 
 Với sản phẩm Kem trị nám Asinice chị em phụ nữ sẽ nhanh chóng lấy lại làn da trắng sáng, mịn màng và sự tự tin với sắc đẹp của mình.
 
@@ -26,7 +26,7 @@ Với sản phẩm Kem trị nám Asinice chị em phụ nữ sẽ nhanh chóng 
 
 **Hạn sử dụng:** Xem trên bao bì.
 
-![ten buc hinh](https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-9/67376609_1338169456337156_1669005307470151680_n.jpg?_nc_cat=105&_nc_oc=AQnxb3y2ZYKqZE-GLLZcHnoa-tQQi5YaIkOaQUNYDFtjz2Q66wpRLhvyIXeNMeREg-g&_nc_ht=scontent.fsgn2-1.fna&oh=7e6e1a9d58e72f276404403781da053f&oe=5DEC55B3 "ten buc hinh")
+![ten buc hinh](https://live.staticflickr.com/65535/50572768391_6d37f024b0_b.jpg "ten buc hinh")
 
 **Công Dụng:**
 
